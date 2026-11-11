@@ -1,0 +1,15 @@
+# Replace the placeholders with your team's GitHub usernames.
+# GitHub auto-requests a review from the owner when a PR touches their area.
+/backend/agents/          @MEMBER1_USERNAME
+/backend/models/          @MEMBER1_USERNAME
+/backend/tests/           @MEMBER1_USERNAME
+/backend/main.py          @MEMBER1_USERNAME
+/backend/services/        @MEMBER2_USERNAME
+/backend/data/            @MEMBER2_USERNAME
+/scripts/                 @MEMBER2_USERNAME
+/data/                    @MEMBER2_USERNAME
+/frontend/                @MEMBER3_USERNAME
+/prototype/               @MEMBER3_USERNAME
+/m3_workspace/            @MEMBER4_USERNAME
+/.github/                 @MEMBER4_USERNAME
+/docker-compose.yml       @MEMBER4_USERNAME
