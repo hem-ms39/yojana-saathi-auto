@@ -1,0 +1,522 @@
+[
+  {
+    "scheme_id": "scheme-1-0",
+    "title": "Scheme 1 0",
+    "description": "Detailed description for scheme-1-0",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-0",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-1",
+    "title": "Scheme 1 1",
+    "description": "Detailed description for scheme-1-1",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-1",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-2",
+    "title": "Scheme 1 2",
+    "description": "Detailed description for scheme-1-2",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-2",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-3",
+    "title": "Scheme 1 3",
+    "description": "Detailed description for scheme-1-3",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-3",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-4",
+    "title": "Scheme 1 4",
+    "description": "Detailed description for scheme-1-4",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-4",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-5",
+    "title": "Scheme 1 5",
+    "description": "Detailed description for scheme-1-5",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-5",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-6",
+    "title": "Scheme 1 6",
+    "description": "Detailed description for scheme-1-6",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-6",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-7",
+    "title": "Scheme 1 7",
+    "description": "Detailed description for scheme-1-7",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-7",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-8",
+    "title": "Scheme 1 8",
+    "description": "Detailed description for scheme-1-8",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-8",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-1-9",
+    "title": "Scheme 1 9",
+    "description": "Detailed description for scheme-1-9",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-1-9",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-0",
+    "title": "Scheme 2 0",
+    "description": "Detailed description for scheme-2-0",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-0",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-1",
+    "title": "Scheme 2 1",
+    "description": "Detailed description for scheme-2-1",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-1",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-2",
+    "title": "Scheme 2 2",
+    "description": "Detailed description for scheme-2-2",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-2",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-3",
+    "title": "Scheme 2 3",
+    "description": "Detailed description for scheme-2-3",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-3",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-4",
+    "title": "Scheme 2 4",
+    "description": "Detailed description for scheme-2-4",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-4",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-5",
+    "title": "Scheme 2 5",
+    "description": "Detailed description for scheme-2-5",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-5",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-6",
+    "title": "Scheme 2 6",
+    "description": "Detailed description for scheme-2-6",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-6",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-7",
+    "title": "Scheme 2 7",
+    "description": "Detailed description for scheme-2-7",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-7",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-8",
+    "title": "Scheme 2 8",
+    "description": "Detailed description for scheme-2-8",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-8",
+    "deadline": "2026-12-31"
+  },
+  {
+    "scheme_id": "scheme-2-9",
+    "title": "Scheme 2 9",
+    "description": "Detailed description for scheme-2-9",
+    "eligibility_text": "Must be citizen of India. Age 18+.",
+    "benefits_text": "Financial support and grants.",
+    "funding_amount": "₹50,000",
+    "category": [
+      "business",
+      "loan"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Relevant Ministry",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan"
+    ],
+    "application_url": "https://www.myscheme.gov.in/schemes/scheme-2-9",
+    "deadline": "2026-12-31"
+  }
+]

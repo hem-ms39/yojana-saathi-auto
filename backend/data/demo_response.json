@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "age": 22,
+    "gender": "female",
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "income_annual": 180000,
+    "caste_category": null,
+    "occupation": "tailor",
+    "education": null,
+    "business_intent": "tailoring unit",
+    "existing_business": false,
+    "has_bank_account": true,
+    "disabilities": null,
+    "minority": null
+  },
+  "results": [
+    {
+      "scheme_id": "mudra",
+      "title": "Pradhan Mantri MUDRA Yojana",
+      "funding_amount": 1000000,
+      "eligibility": "yes",
+      "confidence": 90,
+      "reasoning": "occupation matches, income within limit, business intent present",
+      "category": ["loan", "business", "msme"],
+      "deadline": null
+    },
+    {
+      "scheme_id": "pmegp",
+      "title": "Prime Minister Employment Generation Programme (PMEGP)",
+      "funding_amount": 2500000,
+      "eligibility": "yes",
+      "confidence": 88,
+      "reasoning": "occupation matches, income within limit, business intent present",
+      "category": ["business", "msme", "employment"],
+      "deadline": null
+    }
+  ],
+  "steps": [
+    {"agent": "profile", "status": "complete", "message": "Profile extracted", "data": {"age": 22, "state": "Karnataka"}},
+    {"agent": "discovery", "status": "complete", "message": "Found 12 schemes", "data": null},
+    {"agent": "eligibility", "status": "complete", "message": "Top 7 schemes ranked", "data": null}
+  ],
+  "language": "en"
+}

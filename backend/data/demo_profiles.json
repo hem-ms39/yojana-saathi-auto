@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Asha",
+    "query": "I am a 22 year old woman in Bangalore and want to start a tailoring business. My annual income is 180000.",
+    "language": "en"
+  },
+  {
+    "name": "Ramesh",
+    "query": "मैं 35 साल का किसान हूँ, मेरी सालाना आय 200000 है और मैं कर्नाटक में रहता हूँ।",
+    "language": "hi"
+  },
+  {
+    "name": "Meena",
+    "query": "I am a college student from Mysuru and my family income is 220000 per year.",
+    "language": "en"
+  }
+]
