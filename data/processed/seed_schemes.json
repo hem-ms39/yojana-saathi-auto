@@ -1,0 +1,2003 @@
+[
+  {
+    "scheme_id": "pm-mudra-shishu",
+    "title": "Pradhan Mantri MUDRA Yojana - Shishu",
+    "title_hi": "प्रधानमंत्री मुद्रा योजना - शिशु",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ಶಿಶು",
+    "description": "Provides collateral-free micro-credit loans up to ₹50,000 to individuals for setting up or expanding their micro-enterprise activities. It aims to fund the unfunded, enabling small businesses to grow in manufacturing, processing, trading, and service sectors.",
+    "eligibility_text": "Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be up to ₹50,000. Not available for agriculture directly, but ancillary activities are covered. The applicant should not be a defaulter to any bank or financial institution.",
+    "benefits_text": "Collateral-free loan amount up to ₹50,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent.",
+    "funding_amount": 50000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme"
+    ],
+    "target_group": [
+      "small_business",
+      "startup",
+      "youth",
+      "women",
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "passport_photo",
+      "business_plan",
+      "address_proof",
+      "identity_proof"
+    ],
+    "application_url": "https://www.mudra.org.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Identify your business activity and prepare a basic business plan.",
+      "Step 2: Approach a bank, NBFC, or MFI with your application and required documents.",
+      "Step 3: Submit application and documents; undertake verification and approval process by the lending institution."
+    ],
+    "full_text": "Pradhan Mantri MUDRA Yojana - Shishu. प्रधानमंत्री मुद्रा योजना - शिशु. ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ಶಿಶು. Provides collateral-free micro-credit loans up to ₹50,000 to individuals for setting up or expanding their micro-enterprise activities. It aims to fund the unfunded, enabling small businesses to grow in manufacturing, processing, trading, and service sectors. Eligibility: Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be up to ₹50,000. Not available for agriculture directly, but ancillary activities are covered. The applicant should not be a defaulter to any bank or financial institution. Benefits: Collateral-free loan amount up to ₹50,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent. Target: small_business, startup, youth, women, all. Category: entrepreneurship, business_loan, msme. Ministry: Ministry of Finance. Documents: aadhaar, pan, bank_passbook, passport_photo, business_plan, address_proof, identity_proof."
+  },
+  {
+    "scheme_id": "pm-mudra-kishore",
+    "title": "Pradhan Mantri MUDRA Yojana - Kishore",
+    "title_hi": "प्रधानमंत्री मुद्रा योजना - किशोर",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ಕಿಶೋರ್",
+    "description": "Provides collateral-free micro-credit loans ranging from ₹50,001 to ₹5 lakh to individuals for setting up or expanding their existing micro-enterprise activities. It supports the growth phase of small businesses across various non-farm sectors.",
+    "eligibility_text": "Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be between ₹50,001 and ₹5 lakh. Not available for agriculture directly. The applicant should not be a defaulter to any bank or financial institution.",
+    "benefits_text": "Collateral-free loan amount from ₹50,001 up to ₹5,00,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent.",
+    "funding_amount": 500000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme"
+    ],
+    "target_group": [
+      "small_business",
+      "startup",
+      "youth",
+      "women",
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "passport_photo",
+      "business_plan",
+      "gst_certificate",
+      "address_proof",
+      "identity_proof"
+    ],
+    "application_url": "https://www.mudra.org.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Develop a comprehensive business plan outlining project details and financial projections.",
+      "Step 2: Approach a bank, NBFC, or MFI with your application and required documents.",
+      "Step 3: Submit application and documents; undertake verification, project appraisal, and approval process."
+    ],
+    "full_text": "Pradhan Mantri MUDRA Yojana - Kishore. प्रधानमंत्री मुद्रा योजना - किशोर. ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ಕಿಶೋರ್. Provides collateral-free micro-credit loans ranging from ₹50,001 to ₹5 lakh to individuals for setting up or expanding their existing micro-enterprise activities. It supports the growth phase of small businesses across various non-farm sectors. Eligibility: Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be between ₹50,001 and ₹5 lakh. Not available for agriculture directly. The applicant should not be a defaulter to any bank or financial institution. Benefits: Collateral-free loan amount from ₹50,001 up to ₹5,00,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent. Target: small_business, startup, youth, women, all. Category: entrepreneurship, business_loan, msme. Ministry: Ministry of Finance. Documents: aadhaar, pan, bank_passbook, passport_photo, business_plan, gst_certificate, address_proof, identity_proof."
+  },
+  {
+    "scheme_id": "pm-mudra-tarun",
+    "title": "Pradhan Mantri MUDRA Yojana - Tarun",
+    "title_hi": "प्रधानमंत्री मुद्रा योजना - तरुण",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ತರುಣ್",
+    "description": "Provides collateral-free micro-credit loans ranging from ₹5,00,001 to ₹10 lakh to individuals for scaling up their established micro-enterprise activities. It supports the significant expansion of small businesses across various non-farm sectors.",
+    "eligibility_text": "Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be between ₹5,00,001 and ₹10 lakh. Not available for agriculture directly. The applicant should not be a defaulter to any bank or financial institution.",
+    "benefits_text": "Collateral-free loan amount from ₹5,00,001 up to ₹10,00,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent.",
+    "funding_amount": 1000000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme"
+    ],
+    "target_group": [
+      "small_business",
+      "startup",
+      "youth",
+      "women",
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "passport_photo",
+      "business_plan",
+      "gst_certificate",
+      "income_certificate",
+      "address_proof",
+      "identity_proof",
+      "business_registration_proof"
+    ],
+    "application_url": "https://www.mudra.org.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Prepare a detailed business expansion plan, including financial projections and market analysis.",
+      "Step 2: Approach a bank, NBFC, or MFI with your application and comprehensive required documents.",
+      "Step 3: Submit application and documents; undergo thorough project appraisal, verification, and approval process."
+    ],
+    "full_text": "Pradhan Mantri MUDRA Yojana - Tarun. प्रधानमंत्री मुद्रा योजना - तरुण. ಪ್ರಧಾನ ಮಂತ್ರಿ ಮುದ್ರಾ ಯೋಜನೆ - ತರುಣ್. Provides collateral-free micro-credit loans ranging from ₹5,00,001 to ₹10 lakh to individuals for scaling up their established micro-enterprise activities. It supports the significant expansion of small businesses across various non-farm sectors. Eligibility: Indian citizens desirous of pursuing non-farm income generating activities. The loan requirement must be between ₹5,00,001 and ₹10 lakh. Not available for agriculture directly. The applicant should not be a defaulter to any bank or financial institution. Benefits: Collateral-free loan amount from ₹5,00,001 up to ₹10,00,000. Interest rates are determined by the lending institution (Banks, NBFCs, MFIs) and are usually linked to the bank's MCLR or equivalent. Target: small_business, startup, youth, women, all. Category: entrepreneurship, business_loan, msme. Ministry: Ministry of Finance. Documents: aadhaar, pan, bank_passbook, passport_photo, business_plan, gst_certificate, income_certificate, address_proof, identity_proof, business_registration_proof."
+  },
+  {
+    "scheme_id": "pmegp",
+    "title": "Prime Minister's Employment Generation Programme",
+    "title_hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ಕಾರ್ಯಕ್ರಮ",
+    "description": "A credit-linked subsidy program aimed at generating self-employment opportunities through the establishment of micro-enterprises in the non-farm sector. It provides financial assistance in the form of margin money subsidy for setting up new projects.",
+    "eligibility_text": "Any individual, above 18 years of age. Minimum 8th standard pass is required for projects costing above ₹10 lakh in the manufacturing sector and above ₹5 lakh in the service sector. Only new projects are considered. Self Help Groups (SHGs), institutions registered under Societies Registration Act, 1860, charitable trusts, etc., are also eligible. Existing units or units already availed government subsidy under any other scheme are not eligible.",
+    "benefits_text": "Margin Money (subsidy) for General category is 25% (urban) and 35% (rural) of the project cost. For Special categories (SC/ST/OBC/Minorities/Women/Ex-servicemen/Physically Handicapped/NER), it is 25% (urban) and 35% (rural). The maximum project cost is ₹50 lakh for manufacturing units and ₹20 lakh for service units.",
+    "funding_amount": 5000000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme",
+      "skill_development"
+    ],
+    "target_group": [
+      "youth",
+      "women",
+      "sc_st",
+      "obc",
+      "minority",
+      "small_business",
+      "startup",
+      "rural",
+      "disabled",
+      "all"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "passport_photo",
+      "education_certificate",
+      "caste_certificate",
+      "project_report",
+      "domicile_certificate",
+      "identity_proof",
+      "address_proof"
+    ],
+    "application_url": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Submit online application through the PMEGP e-Portal.",
+      "Step 2: Undergo a mandatory Entrepreneurship Development Program (EDP) training.",
+      "Step 3: Apply for a loan to a bank listed in the scheme. Bank appraises project and sanctions loan.",
+      "Step 4: KVIC/KVIB/DIC releases margin money subsidy to the bank after the bank's loan sanction and initial disbursement."
+    ],
+    "full_text": "Prime Minister's Employment Generation Programme. प्रधानमंत्री रोजगार सृजन कार्यक्रम. ಪ್ರಧಾನ ಮಂತ್ರಿ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ಕಾರ್ಯಕ್ರಮ. A credit-linked subsidy program aimed at generating self-employment opportunities through the establishment of micro-enterprises in the non-farm sector. It provides financial assistance in the form of margin money subsidy for setting up new projects. Eligibility: Any individual, above 18 years of age. Minimum 8th standard pass is required for projects costing above ₹10 lakh in the manufacturing sector and above ₹5 lakh in the service sector. Only new projects are considered. Self Help Groups (SHGs), institutions registered under Societies Registration Act, 1860, charitable trusts, etc., are also eligible. Existing units or units already availed government subsidy under any other scheme are not eligible. Benefits: Margin Money (subsidy) for General category is 25% (urban) and 35% (rural) of the project cost. For Special categories (SC/ST/OBC/Minorities/Women/Ex-servicemen/Physically Handicapped/NER), it is 25% (urban) and 35% (rural). The maximum project cost is ₹50 lakh for manufacturing units and ₹20 lakh for service units. Target: youth, women, sc_st, obc, minority, small_business, startup, rural, disabled, all. Category: entrepreneurship, business_loan, msme, skill_development. Ministry: Ministry of Micro, Small and Medium Enterprises (MSME). Documents: aadhaar, pan, bank_passbook, passport_photo, education_certificate, caste_certificate, project_report, domicile_certificate, identity_proof, address_proof."
+  },
+  {
+    "scheme_id": "stand-up-india",
+    "title": "Stand-Up India Scheme",
+    "title_hi": "स्टैंड-अप इंडिया योजना",
+    "title_kn": "ಸ್ಟ್ಯಾಂಡ್-ಅಪ್ ಇಂಡಿಯಾ ಯೋಜನೆ",
+    "description": "Facilitates bank loans between ₹10 lakh and ₹1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. It promotes entrepreneurship among underserved segments of society.",
+    "eligibility_text": "SC/ST and/or women entrepreneurs, above 18 years of age. Loans are only for greenfield projects (first-time venture) in manufacturing, services, or trading sector. Borrower should not be a defaulter to any bank/financial institution. In case of non-individual enterprises, 51% of shareholding and controlling stake should be held by either SC/ST and/or Woman entrepreneur.",
+    "benefits_text": "Composite loan (Term Loan + Working Capital) between ₹10 lakh and ₹1 crore, covering 75% of the project cost including term loan and working capital. The interest rate would be the lowest applicable rate of the bank for that category (not to exceed Base Rate (MCLR) + 3% + Tenor Premium).",
+    "funding_amount": 10000000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "women",
+      "sc_st"
+    ],
+    "target_group": [
+      "sc_st",
+      "women",
+      "startup",
+      "youth",
+      "small_business"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "passport_photo",
+      "caste_certificate",
+      "business_plan",
+      "domicile_certificate",
+      "gst_certificate",
+      "project_report",
+      "identity_proof",
+      "address_proof"
+    ],
+    "application_url": "https://www.standupmitra.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on Stand-Up Mitra portal and prepare a detailed project report.",
+      "Step 2: Approach a bank branch directly or through the Stand-Up Mitra portal for loan application.",
+      "Step 3: Bank assesses the application, project viability, and creditworthiness.",
+      "Step 4: Loan sanction and disbursement upon meeting all criteria and documentation requirements."
+    ],
+    "full_text": "Stand-Up India Scheme. स्टैंड-अप इंडिया योजना. ಸ್ಟ್ಯಾಂಡ್-ಅಪ್ ಇಂಡಿಯಾ ಯೋಜನೆ. Facilitates bank loans between ₹10 lakh and ₹1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. It promotes entrepreneurship among underserved segments of society. Eligibility: SC/ST and/or women entrepreneurs, above 18 years of age. Loans are only for greenfield projects (first-time venture) in manufacturing, services, or trading sector. Borrower should not be a defaulter to any bank/financial institution. In case of non-individual enterprises, 51% of shareholding and controlling stake should be held by either SC/ST and/or Woman entrepreneur. Benefits: Composite loan (Term Loan + Working Capital) between ₹10 lakh and ₹1 crore, covering 75% of the project cost including term loan and working capital. The interest rate would be the lowest applicable rate of the bank for that category (not to exceed Base Rate (MCLR) + 3% + Tenor Premium). Target: sc_st, women, startup, youth, small_business. Category: entrepreneurship, business_loan, women, sc_st. Ministry: Ministry of Finance. Documents: aadhaar, pan, bank_passbook, passport_photo, caste_certificate, business_plan, domicile_certificate, gst_certificate, project_report, identity_proof, address_proof."
+  },
+  {
+    "scheme_id": "startup-india-seed-fund",
+    "title": "Startup India Seed Fund Scheme",
+    "title_hi": "स्टार्टअप इंडिया सीड फंड योजना",
+    "title_kn": "ಸ್ಟಾರ್ಟ್‌ಅಪ್ ಇಂಡಿಯಾ ಸೀಡ್ ಫಂಡ್ ಯೋಜನೆ",
+    "description": "Aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization. It supports innovative startups across various sectors by bridging the funding gap at early stages.",
+    "eligibility_text": "A startup recognized by DPIIT, incorporated not more than 2 years ago at the time of application. It must have an innovative product or service with a strong business plan, and not have received more than ₹10 lakh of monetary support from any other Central or State Government scheme (except prizes won at competitions). Startups applying should not have prior equity funding of more than ₹10 crore.",
+    "benefits_text": "Seed Fund up to ₹20 lakh for validation of Proof of Concept, prototype development, or product trials (through grants). Seed Fund up to ₹50 lakh for market entry, commercialization, or scaling up through convertible debentures or debt-linked instruments.",
+    "funding_amount": 5000000,
+    "category": [
+      "entrepreneurship",
+      "startup",
+      "business_loan"
+    ],
+    "target_group": [
+      "startup",
+      "youth"
+    ],
+    "ministry": "Ministry of Commerce and Industry (Department for Promotion of Industry and Internal Trade - DPIIT)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "startup_recognition_certificate",
+      "proof_of_concept",
+      "pitch_deck",
+      "certificate_of_incorporation"
+    ],
+    "application_url": "https://www.startupindia.gov.in/seedfundscheme/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Ensure your startup is recognized by DPIIT.",
+      "Step 2: Prepare a detailed application, including business plan, pitch deck, and financial projections.",
+      "Step 3: Apply through the Startup India portal by selecting an eligible incubator.",
+      "Step 4: Applications are evaluated by an Experts Advisory Committee (EAC) appointed by the incubator for recommendation."
+    ],
+    "full_text": "Startup India Seed Fund Scheme. स्टार्टअप इंडिया सीड फंड योजना. ಸ್ಟಾರ್ಟ್‌ಅಪ್ ಇಂಡಿಯಾ ಸೀಡ್ ಫಂಡ್ ಯೋಜನೆ. Aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization. It supports innovative startups across various sectors by bridging the funding gap at early stages. Eligibility: A startup recognized by DPIIT, incorporated not more than 2 years ago at the time of application. It must have an innovative product or service with a strong business plan, and not have received more than ₹10 lakh of monetary support from any other Central or State Government scheme (except prizes won at competitions). Startups applying should not have prior equity funding of more than ₹10 crore. Benefits: Seed Fund up to ₹20 lakh for validation of Proof of Concept, prototype development, or product trials (through grants). Seed Fund up to ₹50 lakh for market entry, commercialization, or scaling up through convertible debentures or debt-linked instruments. Target: startup, youth. Category: entrepreneurship, startup, business_loan. Ministry: Ministry of Commerce and Industry (Department for Promotion of Industry and Internal Trade - DPIIT). Documents: aadhaar, pan, bank_passbook, business_plan, startup_recognition_certificate, proof_of_concept, pitch_deck, certificate_of_incorporation."
+  },
+  {
+    "scheme_id": "cgtmse",
+    "title": "Credit Guarantee Fund Trust for Micro and Small Enterprises",
+    "title_hi": "सूक्ष्म और लघु उद्यमों के लिए क्रेडिट गारंटी फंड ट्रस्ट",
+    "title_kn": "ಸೂಕ್ಷ್ಮ ಮತ್ತು ಸಣ್ಣ ಉದ್ದಿಮೆಗಳಿಗಾಗಿ ಕ್ರೆಡಿಟ್ ಗ್ಯಾರಂಟಿ ಫಂಡ್ ಟ್ರಸ್ಟ್",
+    "description": "Provides collateral-free credit to micro and small enterprises (MSEs). The Trust guarantees a portion of the credit facility extended by eligible lending institutions to MSEs, thereby encouraging banks to lend to this sector without requiring collateral.",
+    "eligibility_text": "New and existing Micro and Small Enterprises (MSEs), including those in the manufacturing and service sectors, which are eligible for credit facilities (term loans and/or working capital) from scheduled commercial banks, select Regional Rural Banks (RRBs), and other eligible lending institutions. The credit facility should be up to ₹5 crore.",
+    "benefits_text": "Credit guarantee coverage for collateral-free loans up to ₹5 crore per eligible MSE unit. The guarantee covers up to 85% for micro enterprises (up to ₹5 lakh), 75% for credit up to ₹5 crore, and 80% for women/MSEs in NER/SC/ST categories.",
+    "funding_amount": 50000000,
+    "category": [
+      "business_loan",
+      "msme"
+    ],
+    "target_group": [
+      "small_business",
+      "startup",
+      "women",
+      "sc_st",
+      "rural",
+      "all"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "gst_certificate",
+      "msme_udyog_aadhaar",
+      "project_report",
+      "loan_application_form"
+    ],
+    "application_url": "https://www.cgtmse.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Prepare your business plan and required documents for a credit facility.",
+      "Step 2: Approach an eligible Member Lending Institution (MLI) (bank/NBFC) for a loan.",
+      "Step 3: The MLI assesses your loan application and, if eligible, applies for CGTMSE guarantee cover on your behalf.",
+      "Step 4: Once the guarantee cover is approved, the MLI disburses the loan without requiring collateral."
+    ],
+    "full_text": "Credit Guarantee Fund Trust for Micro and Small Enterprises. सूक्ष्म और लघु उद्यमों के लिए क्रेडिट गारंटी फंड ट्रस्ट. ಸೂಕ್ಷ್ಮ ಮತ್ತು ಸಣ್ಣ ಉದ್ದಿಮೆಗಳಿಗಾಗಿ ಕ್ರೆಡಿಟ್ ಗ್ಯಾರಂಟಿ ಫಂಡ್ ಟ್ರಸ್ಟ್. Provides collateral-free credit to micro and small enterprises (MSEs). The Trust guarantees a portion of the credit facility extended by eligible lending institutions to MSEs, thereby encouraging banks to lend to this sector without requiring collateral. Eligibility: New and existing Micro and Small Enterprises (MSEs), including those in the manufacturing and service sectors, which are eligible for credit facilities (term loans and/or working capital) from scheduled commercial banks, select Regional Rural Banks (RRBs), and other eligible lending institutions. The credit facility should be up to ₹5 crore. Benefits: Credit guarantee coverage for collateral-free loans up to ₹5 crore per eligible MSE unit. The guarantee covers up to 85% for micro enterprises (up to ₹5 lakh), 75% for credit up to ₹5 crore, and 80% for women/MSEs in NER/SC/ST categories. Target: small_business, startup, women, sc_st, rural, all. Category: business_loan, msme. Ministry: Ministry of Micro, Small and Medium Enterprises (MSME). Documents: aadhaar, pan, bank_passbook, business_plan, gst_certificate, msme_udyog_aadhaar, project_report, loan_application_form."
+  },
+  {
+    "scheme_id": "pm-vishwakarma",
+    "title": "PM Vishwakarma Yojana",
+    "title_hi": "प्रधानमंत्री विश्वकर्मा योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ",
+    "description": "Aims to provide holistic support to traditional artisans and craftspeople (Vishwakarmas) through skill training, modern tools, credit support, marketing support, and digital payments incentives. It preserves traditional skills and integrates them into the modern value chain.",
+    "eligibility_text": "Artisans and craftspeople aged 18 years and above, engaged in one of the 18 identified traditional trades (e.g., carpenter, boat maker, blacksmith, potter, sculptor, tailor, washerman). Beneficiary should not have availed loan under similar Central/State credit-based schemes for self-employment/business development in the past 5 years. One member from one family can apply.",
+    "benefits_text": "Recognition as a Vishwakarma through a certificate and ID card. Skill Upgradation (basic and advanced training) with a stipend of ₹500/day. Toolkit incentive of ₹15,000. Collateral-free credit support (Term Loan) - First Tranche: up to ₹1 lakh for 18 months, Second Tranche: up to ₹2 lakh for 30 months, both at a concessional interest rate of 5% p.a. Marketing support and digital transaction incentives.",
+    "funding_amount": 200000,
+    "category": [
+      "skill_development",
+      "entrepreneurship",
+      "business_loan",
+      "msme"
+    ],
+    "target_group": [
+      "rural",
+      "youth",
+      "women",
+      "small_business",
+      "all"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "ration_card",
+      "passport_photo",
+      "domicile_certificate",
+      "mobile_number_linked_to_aadhaar"
+    ],
+    "application_url": "https://pmvishwakarma.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the PM Vishwakarma portal at a Common Service Centre (CSC) or Gram Panchayat office using Aadhaar-linked mobile number.",
+      "Step 2: Complete the application form and provide required documents.",
+      "Step 3: Undergo verification by Gram Panchayat/ULB and District Implementation Committee.",
+      "Step 4: If approved, receive Vishwakarma ID card, certificate, and enroll for skill training and credit support through the portal."
+    ],
+    "full_text": "PM Vishwakarma Yojana. प्रधानमंत्री विश्वकर्मा योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ವಿಶ್ವಕರ್ಮ ಯೋಜನೆ. Aims to provide holistic support to traditional artisans and craftspeople (Vishwakarmas) through skill training, modern tools, credit support, marketing support, and digital payments incentives. It preserves traditional skills and integrates them into the modern value chain. Eligibility: Artisans and craftspeople aged 18 years and above, engaged in one of the 18 identified traditional trades (e.g., carpenter, boat maker, blacksmith, potter, sculptor, tailor, washerman). Beneficiary should not have availed loan under similar Central/State credit-based schemes for self-employment/business development in the past 5 years. One member from one family can apply. Benefits: Recognition as a Vishwakarma through a certificate and ID card. Skill Upgradation (basic and advanced training) with a stipend of ₹500/day. Toolkit incentive of ₹15,000. Collateral-free credit support (Term Loan) - First Tranche: up to ₹1 lakh for 18 months, Second Tranche: up to ₹2 lakh for 30 months, both at a concessional interest rate of 5% p.a. Marketing support and digital transaction incentives. Target: rural, youth, women, small_business, all. Category: skill_development, entrepreneurship, business_loan, msme. Ministry: Ministry of Micro, Small and Medium Enterprises (MSME). Documents: aadhaar, pan, bank_passbook, ration_card, passport_photo, domicile_certificate, mobile_number_linked_to_aadhaar."
+  },
+  {
+    "scheme_id": "mahila-udyam-nidhi",
+    "title": "Mahila Udyam Nidhi Scheme",
+    "title_hi": "महिला उद्यम निधि योजना",
+    "title_kn": "ಮಹಿಳಾ ಉದ್ಯಮ್ ನಿಧಿ ಯೋಜನೆ",
+    "description": "This scheme provides financial assistance to women entrepreneurs for setting up new projects in the small-scale sector and for expansion/modernization of existing projects. It aims to promote women's entrepreneurship by offering soft loans and filling the equity gap.",
+    "eligibility_text": "Women entrepreneurs establishing new units or expanding/modernizing existing ones in the small-scale sector. The enterprise must be primarily owned and managed by women. The loan can be availed for a wide range of industrial and service activities.",
+    "benefits_text": "Soft loan assistance for projects, typically covering up to 85-90% of the project cost. SIDBI provides an equity-type assistance (soft loan) of 10-15% of the project cost. Repayment period can extend up to 10 years including a moratorium period.",
+    "funding_amount": 1000000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme",
+      "women"
+    ],
+    "target_group": [
+      "women",
+      "small_business",
+      "startup"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises (implemented through SIDBI and banks)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 65,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "passport_photo",
+      "gst_certificate"
+    ],
+    "application_url": "",
+    "deadline": null,
+    "application_steps": [
+      "Approach designated banks/financial institutions like SIDBI or commercial banks.",
+      "Submit a detailed project proposal and business plan.",
+      "Provide all necessary KYC and business registration documents.",
+      "Undergo financial and project evaluation by the bank.",
+      "Loan sanction and disbursement upon approval."
+    ],
+    "full_text": "Mahila Udyam Nidhi Scheme. महिला उद्यम निधि योजना. ಮಹಿಳಾ ಉದ್ಯಮ್ ನಿಧಿ ಯೋಜನೆ. This scheme provides financial assistance to women entrepreneurs for setting up new projects in the small-scale sector and for expansion/modernization of existing projects. It aims to promote women's entrepreneurship by offering soft loans and filling the equity gap. Eligibility: Women entrepreneurs establishing new units or expanding/modernizing existing ones in the small-scale sector. The enterprise must be primarily owned and managed by women. The loan can be availed for a wide range of industrial and service activities. Benefits: Soft loan assistance for projects, typically covering up to 85-90% of the project cost. SIDBI provides an equity-type assistance (soft loan) of 10-15% of the project cost. Repayment period can extend up to 10 years including a moratorium period. Target: women, small_business, startup. Category: entrepreneurship, business_loan, msme, women. Ministry: Ministry of Micro, Small and Medium Enterprises (implemented through SIDBI and banks). Documents: aadhaar, pan, bank_passbook, business_plan, passport_photo, gst_certificate."
+  },
+  {
+    "scheme_id": "annapurna-scheme",
+    "title": "Annapurna Scheme for Women",
+    "title_hi": "अन्नपूर्णा योजना",
+    "title_kn": "ಅನ್ನಪೂರ್ಣ ಯೋಜನೆ",
+    "description": "The Annapurna Scheme provides financial assistance to women entrepreneurs in the catering sector to start or expand their business. It aims to support women looking to sell packaged food, tiffin services, or run small eateries, enabling them to achieve financial independence.",
+    "eligibility_text": "Women entrepreneurs aged between 18 and 60 years are eligible. The applicant must prepare a comprehensive business plan and be ready to provide a guarantor. The loan is specifically designed for women involved in food catering services or small-scale food businesses.",
+    "benefits_text": "Loan up to Rs. 50,000 for purchasing kitchen equipment, utensils, raw materials, and working capital. The repayment period is typically 36 months, with a flexible interest rate determined by the bank.",
+    "funding_amount": 50000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "women"
+    ],
+    "target_group": [
+      "women",
+      "small_business"
+    ],
+    "ministry": "Ministry of Finance (implemented through commercial banks)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 60,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "income_certificate",
+      "business_plan",
+      "passport_photo",
+      "voter_id"
+    ],
+    "application_url": "",
+    "deadline": null,
+    "application_steps": [
+      "Approach a commercial bank that offers the Annapurna Scheme.",
+      "Fill out the prescribed application form.",
+      "Submit a detailed business plan along with all required documents.",
+      "The bank will process and evaluate the application.",
+      "Upon approval, the loan amount will be sanctioned and disbursed."
+    ],
+    "full_text": "Annapurna Scheme for Women. अन्नपूर्णा योजना. ಅನ್ನಪೂರ್ಣ ಯೋಜನೆ. The Annapurna Scheme provides financial assistance to women entrepreneurs in the catering sector to start or expand their business. It aims to support women looking to sell packaged food, tiffin services, or run small eateries, enabling them to achieve financial independence. Eligibility: Women entrepreneurs aged between 18 and 60 years are eligible. The applicant must prepare a comprehensive business plan and be ready to provide a guarantor. The loan is specifically designed for women involved in food catering services or small-scale food businesses. Benefits: Loan up to Rs. 50,000 for purchasing kitchen equipment, utensils, raw materials, and working capital. The repayment period is typically 36 months, with a flexible interest rate determined by the bank. Target: women, small_business. Category: entrepreneurship, business_loan, women. Ministry: Ministry of Finance (implemented through commercial banks). Documents: aadhaar, pan, bank_passbook, income_certificate, business_plan, passport_photo, voter_id."
+  },
+  {
+    "scheme_id": "stree-shakti-package",
+    "title": "Stree Shakti Package for Women Entrepreneurs",
+    "title_hi": "स्त्री शक्ति पैकेज",
+    "title_kn": "ಸ್ತ್ರೀ ಶಕ್ತಿ ಪ್ಯಾಕೇಜ್",
+    "description": "This package is designed by State Bank of India (SBI) to provide concessions and support to women entrepreneurs who hold a majority share (over 50%) in their small businesses. It aims to empower women by offering favourable loan terms and fostering their growth in the entrepreneurial sector.",
+    "eligibility_text": "Women who have more than 50% ownership in a small business unit. The business unit must be engaged in manufacturing, services, or trading activities. The scheme is offered through State Bank of India branches across the country.",
+    "benefits_text": "Concessional interest rates (a reduction of 0.50% from the standard rate) on business loans for eligible women entrepreneurs. The maximum loan amount varies based on the specific project and credit evaluation, applicable for both working capital and term loan purposes.",
+    "funding_amount": 2500000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "msme",
+      "women"
+    ],
+    "target_group": [
+      "women",
+      "small_business"
+    ],
+    "ministry": "Ministry of Finance (implemented through State Bank of India)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 65,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "passport_photo",
+      "gst_certificate"
+    ],
+    "application_url": "",
+    "deadline": null,
+    "application_steps": [
+      "Visit the nearest State Bank of India branch.",
+      "Discuss your business plan and requirements with a bank official.",
+      "Fill out the application form for Stree Shakti Package.",
+      "Submit all required documents, including business registration and financial statements.",
+      "The bank will evaluate the proposal and disburse the loan upon approval."
+    ],
+    "full_text": "Stree Shakti Package for Women Entrepreneurs. स्त्री शक्ति पैकेज. ಸ್ತ್ರೀ ಶಕ್ತಿ ಪ್ಯಾಕೇಜ್. This package is designed by State Bank of India (SBI) to provide concessions and support to women entrepreneurs who hold a majority share (over 50%) in their small businesses. It aims to empower women by offering favourable loan terms and fostering their growth in the entrepreneurial sector. Eligibility: Women who have more than 50% ownership in a small business unit. The business unit must be engaged in manufacturing, services, or trading activities. The scheme is offered through State Bank of India branches across the country. Benefits: Concessional interest rates (a reduction of 0.50% from the standard rate) on business loans for eligible women entrepreneurs. The maximum loan amount varies based on the specific project and credit evaluation, applicable for both working capital and term loan purposes. Target: women, small_business. Category: entrepreneurship, business_loan, msme, women. Ministry: Ministry of Finance (implemented through State Bank of India). Documents: aadhaar, pan, bank_passbook, business_plan, passport_photo, gst_certificate."
+  },
+  {
+    "scheme_id": "mahila-samman-savings-certificate",
+    "title": "Mahila Samman Savings Certificate, 2023",
+    "title_hi": "महिला सम्मान बचत पत्र, 2023",
+    "title_kn": "ಮಹಿಳಾ ಸಮ್ಮಾನ್ ಉಳಿತಾಯ ಪ್ರಮಾಣಪತ್ರ, 2023",
+    "description": "A one-time small savings scheme for women, announced in Budget 2023, effective from April 1, 2023. It offers a fixed and attractive interest rate for a two-year period, promoting financial empowerment and encouraging savings among women and girls across India.",
+    "eligibility_text": "Any woman can open an account for herself. A guardian can open an account on behalf of a minor girl. There is no specific age limit for adult women to open this account. It is accessible to all women and girls.",
+    "benefits_text": "Deposit facility of up to Rs. 2 lakh for a period of two years at a fixed interest rate of 7.5% per annum, compounded quarterly. Partial withdrawal facility is available after one year from the date of account opening.",
+    "funding_amount": 200000,
+    "category": [
+      "social_security",
+      "women"
+    ],
+    "target_group": [
+      "women",
+      "all"
+    ],
+    "ministry": "Ministry of Finance (Department of Economic Affairs)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "passport_photo"
+    ],
+    "application_url": "",
+    "deadline": "2025-03-31",
+    "application_steps": [
+      "Visit a Post Office or an authorized commercial bank.",
+      "Fill the application form (Form-1 for opening an account).",
+      "Submit required KYC documents, including Aadhaar card and PAN card.",
+      "Deposit the desired amount (minimum Rs. 1,000, in multiples of Rs. 100, up to Rs. 2 lakh)."
+    ],
+    "full_text": "Mahila Samman Savings Certificate, 2023. महिला सम्मान बचत पत्र, 2023. ಮಹಿಳಾ ಸಮ್ಮಾನ್ ಉಳಿತಾಯ ಪ್ರಮಾಣಪತ್ರ, 2023. A one-time small savings scheme for women, announced in Budget 2023, effective from April 1, 2023. It offers a fixed and attractive interest rate for a two-year period, promoting financial empowerment and encouraging savings among women and girls across India. Eligibility: Any woman can open an account for herself. A guardian can open an account on behalf of a minor girl. There is no specific age limit for adult women to open this account. It is accessible to all women and girls. Benefits: Deposit facility of up to Rs. 2 lakh for a period of two years at a fixed interest rate of 7.5% per annum, compounded quarterly. Partial withdrawal facility is available after one year from the date of account opening. Target: women, all. Category: social_security, women. Ministry: Ministry of Finance (Department of Economic Affairs). Documents: aadhaar, pan, passport_photo."
+  },
+  {
+    "scheme_id": "pm-matru-vandana-yojana",
+    "title": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "title_hi": "प्रधानमंत्री मातृ वंदना योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ",
+    "description": "A Maternity Benefit Programme implemented by the Ministry of Women and Child Development. It provides partial compensation for wage loss during childbirth and childcare, aiming to improve health-seeking behaviour among pregnant women and lactating mothers.",
+    "eligibility_text": "All pregnant women and lactating mothers (PW&LM), excluding those in regular employment with the Central/State Government or Public Sector Undertakings (PSUs). The benefit is applicable for the first living child of the family. The mother must be at least 18 years of age.",
+    "benefits_text": "Cash incentive of Rs. 5,000 provided in three instalments upon fulfilling specific conditions. These include early registration of pregnancy, antenatal check-up, registration of birth, and completion of the first cycle of immunization for the child.",
+    "funding_amount": 5000,
+    "category": [
+      "healthcare",
+      "social_security",
+      "women"
+    ],
+    "target_group": [
+      "women",
+      "rural",
+      "urban_poor",
+      "bpl"
+    ],
+    "ministry": "Ministry of Women and Child Development",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook"
+    ],
+    "application_url": "https://pmmvy.nic.in/",
+    "deadline": null,
+    "application_steps": [
+      "Register pregnancy at an Anganwadi Centre (AWC) or an approved Health Facility.",
+      "Fill the application form (Form 1A) and submit it along with required documents.",
+      "Receive the first instalment after registration of pregnancy.",
+      "Receive subsequent instalments upon completion of specific health and immunization milestones."
+    ],
+    "full_text": "Pradhan Mantri Matru Vandana Yojana (PMMVY). प्रधानमंत्री मातृ वंदना योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಮಾತೃ ವಂದನಾ ಯೋಜನೆ. A Maternity Benefit Programme implemented by the Ministry of Women and Child Development. It provides partial compensation for wage loss during childbirth and childcare, aiming to improve health-seeking behaviour among pregnant women and lactating mothers. Eligibility: All pregnant women and lactating mothers (PW&LM), excluding those in regular employment with the Central/State Government or Public Sector Undertakings (PSUs). The benefit is applicable for the first living child of the family. The mother must be at least 18 years of age. Benefits: Cash incentive of Rs. 5,000 provided in three instalments upon fulfilling specific conditions. These include early registration of pregnancy, antenatal check-up, registration of birth, and completion of the first cycle of immunization for the child. Target: women, rural, urban_poor, bpl. Category: healthcare, social_security, women. Ministry: Ministry of Women and Child Development. Documents: aadhaar, bank_passbook."
+  },
+  {
+    "scheme_id": "working-women-hostel",
+    "title": "Working Women Hostel Scheme",
+    "title_hi": "कामकाजी महिला छात्रावास योजना",
+    "title_kn": "ದುಡಿಯುವ ಮಹಿಳೆಯರ ಹಾಸ್ಟೆಲ್ ಯೋಜನೆ",
+    "description": "This scheme aims to provide safe, convenient, and affordable accommodation for working women, with daycare facilities for their children wherever possible. It seeks to support women's participation in the workforce by addressing their housing and childcare needs in urban, semi-urban, and rural areas.",
+    "eligibility_text": "Working women, including single, widowed, divorced, separated women, or women whose husbands are out of station. Priority is often given to women from disadvantaged sections. Income ceiling: Gross income up to Rs. 50,000 per month in metropolitan cities and Rs. 35,000 per month in other places.",
+    "benefits_text": "Access to subsidized accommodation with amenities like boarding, lodging, and often daycare facilities for children, ensuring safety and convenience. The scheme primarily provides financial assistance to organizations for constructing or expanding hostels, not direct cash to beneficiaries.",
+    "funding_amount": null,
+    "category": [
+      "housing",
+      "women",
+      "social_security"
+    ],
+    "target_group": [
+      "women",
+      "urban_poor"
+    ],
+    "ministry": "Ministry of Women and Child Development",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": 50000,
+    "documents_required": [
+      "aadhaar",
+      "income_certificate",
+      "passport_photo"
+    ],
+    "application_url": "",
+    "deadline": null,
+    "application_steps": [
+      "Identify a registered Working Women Hostel in the desired location.",
+      "Obtain and fill the admission application form from the hostel administration.",
+      "Submit required documents including identity proof, income certificate, and employment proof.",
+      "Await admission approval and comply with hostel rules upon moving in."
+    ],
+    "full_text": "Working Women Hostel Scheme. कामकाजी महिला छात्रावास योजना. ದುಡಿಯುವ ಮಹಿಳೆಯರ ಹಾಸ್ಟೆಲ್ ಯೋಜನೆ. This scheme aims to provide safe, convenient, and affordable accommodation for working women, with daycare facilities for their children wherever possible. It seeks to support women's participation in the workforce by addressing their housing and childcare needs in urban, semi-urban, and rural areas. Eligibility: Working women, including single, widowed, divorced, separated women, or women whose husbands are out of station. Priority is often given to women from disadvantaged sections. Income ceiling: Gross income up to Rs. 50,000 per month in metropolitan cities and Rs. 35,000 per month in other places. Benefits: Access to subsidized accommodation with amenities like boarding, lodging, and often daycare facilities for children, ensuring safety and convenience. The scheme primarily provides financial assistance to organizations for constructing or expanding hostels, not direct cash to beneficiaries. Target: women, urban_poor. Category: housing, women, social_security. Ministry: Ministry of Women and Child Development. Documents: aadhaar, income_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "post-matric-sc",
+    "title": "Post-Matric Scholarship for SC Students",
+    "title_hi": "पोस्ट मैट्रिक छात्रवृत्ति योजना अनुसूचित जाति के छात्रों के लिए",
+    "title_kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description": "This scheme provides financial assistance to Scheduled Caste students studying at the post-matriculation or post-secondary level to enable them to complete their higher education. It covers maintenance allowance, fee reimbursement, and other allowances.",
+    "eligibility_text": "Open to Scheduled Caste students who have passed the matriculation or higher secondary examination. The annual family income from all sources should not exceed INR 2.50 lakh. Students must be Indian nationals studying in recognized institutions and not pursuing any other scholarship benefits.",
+    "benefits_text": "Maintenance allowance ranging from INR 230 to INR 1200 per month, reimbursement of compulsory non-refundable fees, study tour charges, thesis typing/printing charges, book allowance, etc., depending on the course and hosteller/day scholar status.",
+    "funding_amount": null,
+    "category": [
+      "scholarship",
+      "education",
+      "sc_st"
+    ],
+    "target_group": [
+      "student",
+      "sc_st"
+    ],
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 250000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "caste_certificate",
+      "domicile_certificate",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National Scholarship Portal (NSP).",
+      "Step 2: Fill out the application form with personal, academic, and bank details.",
+      "Step 3: Upload scanned copies of required documents.",
+      "Step 4: Review and submit the application.",
+      "Step 5: Application verified by institution and then by district/state welfare officer."
+    ],
+    "full_text": "Post-Matric Scholarship for SC Students. पोस्ट मैट्रिक छात्रवृत्ति योजना अनुसूचित जाति के छात्रों के लिए. ಪರಿಶಿಷ್ಟ ಜಾತಿ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ. This scheme provides financial assistance to Scheduled Caste students studying at the post-matriculation or post-secondary level to enable them to complete their higher education. It covers maintenance allowance, fee reimbursement, and other allowances. Eligibility: Open to Scheduled Caste students who have passed the matriculation or higher secondary examination. The annual family income from all sources should not exceed INR 2.50 lakh. Students must be Indian nationals studying in recognized institutions and not pursuing any other scholarship benefits. Benefits: Maintenance allowance ranging from INR 230 to INR 1200 per month, reimbursement of compulsory non-refundable fees, study tour charges, thesis typing/printing charges, book allowance, etc., depending on the course and hosteller/day scholar status. Target: student, sc_st. Category: scholarship, education, sc_st. Ministry: Ministry of Social Justice and Empowerment. Documents: aadhaar, bank_passbook, income_certificate, caste_certificate, domicile_certificate, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "post-matric-obc",
+    "title": "Post-Matric Scholarship for OBC Students",
+    "title_hi": "पोस्ट मैट्रिक छात्रवृत्ति योजना अन्य पिछड़ा वर्ग के छात्रों के लिए",
+    "title_kn": "ಇತರೆ ಹಿಂದುಳಿದ ವರ್ಗಗಳ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description": "This scheme provides financial assistance to Other Backward Classes (OBC) students for pursuing post-matriculation courses in recognized institutions. The scholarship aims to support educational advancement among disadvantaged sections of society.",
+    "eligibility_text": "Open to OBC students who have passed the matriculation or higher secondary examination. The annual family income from all sources should not exceed INR 2.50 lakh. Students must be Indian nationals studying in recognized institutions and not pursuing any other scholarship benefits.",
+    "benefits_text": "Maintenance allowance ranging from INR 160 to INR 750 per month, reimbursement of compulsory non-refundable fees, study tour charges, thesis typing/printing charges, book allowance, etc., depending on the course and hosteller/day scholar status.",
+    "funding_amount": null,
+    "category": [
+      "scholarship",
+      "education",
+      "obc"
+    ],
+    "target_group": [
+      "student",
+      "obc"
+    ],
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 250000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "caste_certificate",
+      "domicile_certificate",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National Scholarship Portal (NSP).",
+      "Step 2: Fill out the application form with personal, academic, and bank details.",
+      "Step 3: Upload scanned copies of required documents.",
+      "Step 4: Review and submit the application.",
+      "Step 5: Application verified by institution and then by district/state welfare officer."
+    ],
+    "full_text": "Post-Matric Scholarship for OBC Students. पोस्ट मैट्रिक छात्रवृत्ति योजना अन्य पिछड़ा वर्ग के छात्रों के लिए. ಇತರೆ ಹಿಂದುಳಿದ ವರ್ಗಗಳ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ. This scheme provides financial assistance to Other Backward Classes (OBC) students for pursuing post-matriculation courses in recognized institutions. The scholarship aims to support educational advancement among disadvantaged sections of society. Eligibility: Open to OBC students who have passed the matriculation or higher secondary examination. The annual family income from all sources should not exceed INR 2.50 lakh. Students must be Indian nationals studying in recognized institutions and not pursuing any other scholarship benefits. Benefits: Maintenance allowance ranging from INR 160 to INR 750 per month, reimbursement of compulsory non-refundable fees, study tour charges, thesis typing/printing charges, book allowance, etc., depending on the course and hosteller/day scholar status. Target: student, obc. Category: scholarship, education, obc. Ministry: Ministry of Social Justice and Empowerment. Documents: aadhaar, bank_passbook, income_certificate, caste_certificate, domicile_certificate, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "csss-college-university",
+    "title": "Central Sector Scheme of Scholarships for College and University Students",
+    "title_hi": "महाविद्यालय एवं विश्वविद्यालय छात्रों के लिए केंद्रीय क्षेत्र छात्रवृत्ति योजना",
+    "title_kn": "ಕಾಲೇಜು ಮತ್ತು ವಿಶ್ವವಿದ್ಯಾಲಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕೇಂದ್ರ ವಲಯದ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ",
+    "description": "This scheme provides financial assistance to meritorious students from non-creamy layer families to meet a part of their daily expenses while pursuing higher studies. It aims to support students with limited financial means to pursue degree courses.",
+    "eligibility_text": "Students who are above the 80th percentile of successful candidates in the relevant stream in Class XII examination of the respective Board and pursuing regular degree courses. The annual family income from all sources should not exceed INR 4.50 lakh. Students must not be receiving any other scholarship benefits.",
+    "benefits_text": "Scholarship amount of INR 12,000 per annum at the undergraduate level for the first three years of degree courses and INR 20,000 per annum at the postgraduate level for the 4th and 5th year. Scholarship is renewable annually based on academic performance.",
+    "funding_amount": 20000,
+    "category": [
+      "scholarship",
+      "education"
+    ],
+    "target_group": [
+      "student"
+    ],
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 450000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "education_certificate",
+      "domicile_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National Scholarship Portal (NSP).",
+      "Step 2: Fill out the application form with personal, academic, and bank details.",
+      "Step 3: Upload scanned copies of required documents, including Class XII marksheet.",
+      "Step 4: Review and submit the application.",
+      "Step 5: Application verified by institution and state nodal officer."
+    ],
+    "full_text": "Central Sector Scheme of Scholarships for College and University Students. महाविद्यालय एवं विश्वविद्यालय छात्रों के लिए केंद्रीय क्षेत्र छात्रवृत्ति योजना. ಕಾಲೇಜು ಮತ್ತು ವಿಶ್ವವಿದ್ಯಾಲಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕೇಂದ್ರ ವಲಯದ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ. This scheme provides financial assistance to meritorious students from non-creamy layer families to meet a part of their daily expenses while pursuing higher studies. It aims to support students with limited financial means to pursue degree courses. Eligibility: Students who are above the 80th percentile of successful candidates in the relevant stream in Class XII examination of the respective Board and pursuing regular degree courses. The annual family income from all sources should not exceed INR 4.50 lakh. Students must not be receiving any other scholarship benefits. Benefits: Scholarship amount of INR 12,000 per annum at the undergraduate level for the first three years of degree courses and INR 20,000 per annum at the postgraduate level for the 4th and 5th year. Scholarship is renewable annually based on academic performance. Target: student. Category: scholarship, education. Ministry: Ministry of Education (Department of Higher Education). Documents: aadhaar, bank_passbook, income_certificate, education_certificate, domicile_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "pmrf",
+    "title": "PM Research Fellowship (PMRF)",
+    "title_hi": "प्रधानमंत्री रिसर्च फेलोशिप (पीएमआरएफ)",
+    "title_kn": "ಪ್ರಧಾನಮಂತ್ರಿ ಸಂಶೋಧನಾ ಫೆಲೋಶಿಪ್ (ಪಿಎಂಆರ್‌ಎಫ್)",
+    "description": "This scheme aims to attract the best talent into research, providing financial support to students for pursuing Ph.D. programs at IITs, IISc, NITs, and other premier institutions. It focuses on high-quality research in science and technology.",
+    "eligibility_text": "For Ph.D. direct admission: B.Tech/Integrated M.Tech/M.Sc students from IITs/IISc/NITs/IISERs/Centrally Funded Technical Institutions with a CGPA of 8.0/10 or equivalent. For Ph.D. lateral entry: Students who have completed or are pursuing Ph.D. at a PMRF granting institution, with exceptional academic records. Must have a strong research proposal.",
+    "benefits_text": "Fellowship of INR 70,000 per month for the first two years, INR 75,000 per month for the third year, INR 80,000 per month for the fourth year, and INR 80,000 per month for the fifth year. A research grant of INR 2 lakh per year for five years (total INR 10 lakh) is also provided.",
+    "funding_amount": 80000,
+    "category": [
+      "scholarship",
+      "education"
+    ],
+    "target_group": [
+      "student",
+      "youth"
+    ],
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "education_certificate",
+      "research_proposal",
+      "passport_photo"
+    ],
+    "application_url": "https://pmrf.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Check eligibility criteria on the official PMRF portal.",
+      "Step 2: Prepare a detailed research proposal and academic transcripts.",
+      "Step 3: Apply through a PMRF Granting Institution.",
+      "Step 4: Institutions nominate candidates to the National Coordination Committee.",
+      "Step 5: Final selection based on evaluation of application and presentation."
+    ],
+    "full_text": "PM Research Fellowship (PMRF). प्रधानमंत्री रिसर्च फेलोशिप (पीएमआरएफ). ಪ್ರಧಾನಮಂತ್ರಿ ಸಂಶೋಧನಾ ಫೆಲೋಶಿಪ್ (ಪಿಎಂಆರ್‌ಎಫ್). This scheme aims to attract the best talent into research, providing financial support to students for pursuing Ph.D. programs at IITs, IISc, NITs, and other premier institutions. It focuses on high-quality research in science and technology. Eligibility: For Ph.D. direct admission: B.Tech/Integrated M.Tech/M.Sc students from IITs/IISc/NITs/IISERs/Centrally Funded Technical Institutions with a CGPA of 8.0/10 or equivalent. For Ph.D. lateral entry: Students who have completed or are pursuing Ph.D. at a PMRF granting institution, with exceptional academic records. Must have a strong research proposal. Benefits: Fellowship of INR 70,000 per month for the first two years, INR 75,000 per month for the third year, INR 80,000 per month for the fourth year, and INR 80,000 per month for the fifth year. A research grant of INR 2 lakh per year for five years (total INR 10 lakh) is also provided. Target: student, youth. Category: scholarship, education. Ministry: Ministry of Education (Department of Higher Education). Documents: aadhaar, education_certificate, research_proposal, passport_photo."
+  },
+  {
+    "scheme_id": "aicte-pragati",
+    "title": "AICTE Pragati Scholarship for Girls",
+    "title_hi": "एआईसीटीई प्रगति छात्रावृत्ति योजना",
+    "title_kn": "ಎಐಸಿಟಿಇ ಪ್ರಗತಿ ಬಾಲಕಿಯರ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description": "This scholarship aims to provide financial support to meritorious girl students to pursue technical education. It encourages girls to enroll in technical courses and overcome financial barriers.",
+    "eligibility_text": "Open to girl students admitted to the first year of a Degree/Diploma course at an AICTE-approved institution. Annual family income from all sources should not exceed INR 8 lakh. Up to two girls per family are eligible.",
+    "benefits_text": "INR 50,000 per annum for tuition fees, academic expenses, books, stationery, equipment, software, etc., for the duration of the course (maximum 4 years for Degree, 3 years for Diploma).",
+    "funding_amount": 50000,
+    "category": [
+      "scholarship",
+      "education",
+      "women"
+    ],
+    "target_group": [
+      "student",
+      "women"
+    ],
+    "ministry": "Ministry of Education (AICTE - All India Council for Technical Education)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 800000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "education_certificate",
+      "domicile_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National Scholarship Portal (NSP) or AICTE portal.",
+      "Step 2: Fill out the application form with personal, academic, and bank details.",
+      "Step 3: Upload scanned copies of required documents.",
+      "Step 4: Review and submit the application.",
+      "Step 5: Application verified by institution and AICTE."
+    ],
+    "full_text": "AICTE Pragati Scholarship for Girls. एआईसीटीई प्रगति छात्रावृत्ति योजना. ಎಐಸಿಟಿಇ ಪ್ರಗತಿ ಬಾಲಕಿಯರ ವಿದ್ಯಾರ್ಥಿವೇತನ. This scholarship aims to provide financial support to meritorious girl students to pursue technical education. It encourages girls to enroll in technical courses and overcome financial barriers. Eligibility: Open to girl students admitted to the first year of a Degree/Diploma course at an AICTE-approved institution. Annual family income from all sources should not exceed INR 8 lakh. Up to two girls per family are eligible. Benefits: INR 50,000 per annum for tuition fees, academic expenses, books, stationery, equipment, software, etc., for the duration of the course (maximum 4 years for Degree, 3 years for Diploma). Target: student, women. Category: scholarship, education, women. Ministry: Ministry of Education (AICTE - All India Council for Technical Education). Documents: aadhaar, bank_passbook, income_certificate, education_certificate, domicile_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "nmmss",
+    "title": "National Means-cum-Merit Scholarship (NMMSS)",
+    "title_hi": "राष्ट्रीय मीन्स-कम-मेरिट छात्रवृत्ति योजना",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಮೆರಿಟ್-ಕಮ್-ಮೆರಿಟ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ",
+    "description": "This scheme provides scholarships to meritorious students from economically weaker sections to prevent them from dropping out of secondary school due to financial constraints. It aims to encourage them to continue their studies up to Class XII.",
+    "eligibility_text": "Students who have passed Class VII with at least 55% marks (5% relaxation for SC/ST) and are currently studying in Class VIII in State Government, Government-Aided, or Local Body schools. Annual family income from all sources should not exceed INR 3.50 lakh. Students must qualify a selection examination conducted by the respective state/UT.",
+    "benefits_text": "INR 12,000 per annum (INR 1,000 per month) for a maximum period of four years, i.e., from Class IX to Class XII. The scholarship is disbursed quarterly.",
+    "funding_amount": 12000,
+    "category": [
+      "scholarship",
+      "education"
+    ],
+    "target_group": [
+      "student",
+      "bpl"
+    ],
+    "ministry": "Ministry of Education (Department of School Education & Literacy)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 350000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "education_certificate",
+      "caste_certificate",
+      "domicile_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Apply online through the National Scholarship Portal (NSP) for the NMMSS examination.",
+      "Step 2: Appear for the written examination conducted by the state/UT.",
+      "Step 3: Shortlisted candidates need to register on NSP and fill application form.",
+      "Step 4: Upload required documents.",
+      "Step 5: Application verified by institution and state nodal officer."
+    ],
+    "full_text": "National Means-cum-Merit Scholarship (NMMSS). राष्ट्रीय मीन्स-कम-मेरिट छात्रवृत्ति योजना. ರಾಷ್ಟ್ರೀಯ ಮೆರಿಟ್-ಕಮ್-ಮೆರಿಟ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಯೋಜನೆ. This scheme provides scholarships to meritorious students from economically weaker sections to prevent them from dropping out of secondary school due to financial constraints. It aims to encourage them to continue their studies up to Class XII. Eligibility: Students who have passed Class VII with at least 55% marks (5% relaxation for SC/ST) and are currently studying in Class VIII in State Government, Government-Aided, or Local Body schools. Annual family income from all sources should not exceed INR 3.50 lakh. Students must qualify a selection examination conducted by the respective state/UT. Benefits: INR 12,000 per annum (INR 1,000 per month) for a maximum period of four years, i.e., from Class IX to Class XII. The scholarship is disbursed quarterly. Target: student, bpl. Category: scholarship, education. Ministry: Ministry of Education (Department of School Education & Literacy). Documents: aadhaar, bank_passbook, income_certificate, education_certificate, caste_certificate, domicile_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "ishan-uday-ner",
+    "title": "Ishan Uday Special Scholarship for North Eastern Region",
+    "title_hi": "ईशान उदय पूर्वोत्तर क्षेत्र के लिए विशेष छात्रवृत्ति",
+    "title_kn": "ಈಶಾನ್ ಉದಯ್ ಈಶಾನ್ಯ ಪ್ರದೇಶಕ್ಕೆ ವಿಶೇಷ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description": "This scholarship aims to promote higher education in the North Eastern Region by providing financial assistance to students for pursuing general degree, technical, professional, and medical courses. It helps bridge the regional gap in higher education.",
+    "eligibility_text": "Students with domicile of the North Eastern Region (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, Sikkim) who have passed Class XII or equivalent examination from a school situated in NER and secured admission in a general degree, technical, professional, or medical course. Annual family income from all sources should not exceed INR 4.50 lakh.",
+    "benefits_text": "INR 5,400 per month for general degree courses and INR 7,800 per month for technical/medical/professional/paramedical courses.",
+    "funding_amount": 7800,
+    "category": [
+      "scholarship",
+      "education"
+    ],
+    "target_group": [
+      "student",
+      "youth",
+      "rural"
+    ],
+    "ministry": "Ministry of Education (UGC - University Grants Commission)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 450000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "education_certificate",
+      "domicile_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://scholarships.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National Scholarship Portal (NSP).",
+      "Step 2: Fill out the application form with personal, academic, and bank details.",
+      "Step 3: Upload scanned copies of required documents, including domicile and admission letter.",
+      "Step 4: Review and submit the application.",
+      "Step 5: Application verified by institution and UGC."
+    ],
+    "full_text": "Ishan Uday Special Scholarship for North Eastern Region. ईशान उदय पूर्वोत्तर क्षेत्र के लिए विशेष छात्रवृत्ति. ಈಶಾನ್ ಉದಯ್ ಈಶಾನ್ಯ ಪ್ರದೇಶಕ್ಕೆ ವಿಶೇಷ ವಿದ್ಯಾರ್ಥಿವೇತನ. This scholarship aims to promote higher education in the North Eastern Region by providing financial assistance to students for pursuing general degree, technical, professional, and medical courses. It helps bridge the regional gap in higher education. Eligibility: Students with domicile of the North Eastern Region (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, Sikkim) who have passed Class XII or equivalent examination from a school situated in NER and secured admission in a general degree, technical, professional, or medical course. Annual family income from all sources should not exceed INR 4.50 lakh. Benefits: INR 5,400 per month for general degree courses and INR 7,800 per month for technical/medical/professional/paramedical courses. Target: student, youth, rural. Category: scholarship, education. Ministry: Ministry of Education (UGC - University Grants Commission). Documents: aadhaar, bank_passbook, income_certificate, education_certificate, domicile_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "begum-hazrat-mahal-scholarship",
+    "title": "Begum Hazrat Mahal National Scholarship for Minority Girls",
+    "title_hi": "बेगम हजरत महल राष्ट्रीय छात्रवृत्ति अल्पसंख्यक लड़कियों के लिए",
+    "title_kn": "ಬೇಗಂ ಹಜರತ್ ಮಹಲ್ ಅಲ್ಪಸಂಖ್ಯಾತ ಹೆಣ್ಣುಮಕ್ಕಳಿಗೆ ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ",
+    "description": "This scholarship provides financial assistance to meritorious girl students belonging to minority communities (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains) for pursuing higher secondary education. It aims to empower minority girls through education.",
+    "eligibility_text": "Open to girl students belonging to notified minority communities studying in Class IX to XII. Must have secured at least 50% marks or equivalent grade in the previous qualifying examination. Annual family income from all sources should not exceed INR 2 lakh.",
+    "benefits_text": "INR 6,000 for Class IX & X students and INR 7,000 for Class XI & XII students, provided in two installments.",
+    "funding_amount": 7000,
+    "category": [
+      "scholarship",
+      "education",
+      "women",
+      "minority"
+    ],
+    "target_group": [
+      "student",
+      "women",
+      "minority"
+    ],
+    "ministry": "Ministry of Minority Affairs (implemented by Maulana Azad Education Foundation - MAEF)",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": 200000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "caste_certificate",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://www.maef.nic.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit the MAEF website and download the application form (or apply online if available on NSP).",
+      "Step 2: Fill out the application form carefully with all details.",
+      "Step 3: Attach attested copies of required documents, including income and minority certificates.",
+      "Step 4: Submit the application to the respective school/institution.",
+      "Step 5: School/institution verifies and forwards the application to MAEF."
+    ],
+    "full_text": "Begum Hazrat Mahal National Scholarship for Minority Girls. बेगम हजरत महल राष्ट्रीय छात्रवृत्ति अल्पसंख्यक लड़कियों के लिए. ಬೇಗಂ ಹಜರತ್ ಮಹಲ್ ಅಲ್ಪಸಂಖ್ಯಾತ ಹೆಣ್ಣುಮಕ್ಕಳಿಗೆ ರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿವೇತನ. This scholarship provides financial assistance to meritorious girl students belonging to minority communities (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains) for pursuing higher secondary education. It aims to empower minority girls through education. Eligibility: Open to girl students belonging to notified minority communities studying in Class IX to XII. Must have secured at least 50% marks or equivalent grade in the previous qualifying examination. Annual family income from all sources should not exceed INR 2 lakh. Benefits: INR 6,000 for Class IX & X students and INR 7,000 for Class XI & XII students, provided in two installments. Target: student, women, minority. Category: scholarship, education, women, minority. Ministry: Ministry of Minority Affairs (implemented by Maulana Azad Education Foundation - MAEF). Documents: aadhaar, bank_passbook, income_certificate, caste_certificate, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "pm-kisan",
+    "title": "Pradhan Mantri Kisan Samman Nidhi",
+    "title_hi": "प्रधानमंत्री किसान सम्मान निधि",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ",
+    "description": "Provides income support to all eligible landholding farmer families across the country to supplement their financial needs. The scheme aims to ensure proper crop health and appropriate yields, commensurate with the anticipated income from agricultural activity.",
+    "eligibility_text": "All landholding farmer families, which have cultivable land in their names, are eligible. Exclusions include institutional landholders; former and present holders of constitutional posts; former and present Ministers/State Ministers; former/present MPs/MLAs/MLCs; former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats; all serving or retired officers and employees of Central/State Government Ministries/Offices/Departments and their field units, Central or State PSEs and Attached Offices/Autonomous Institutions under Government as well as regular employees of the Local Bodies (excluding Multi Tasking Staff /Class IV/Group D employees); all superannuated/retired pensioners whose monthly pension is ₹10,000/- or more (excluding Multi Tasking Staff /Class IV/Group D employees); and all persons who paid Income Tax in the last assessment year. Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with professional bodies and carrying out profession by undertaking practices are also excluded.",
+    "benefits_text": "Financial benefit of ₹6,000 per year, payable in three equal instalments of ₹2,000 each, every four months, directly transferred to the bank accounts of the beneficiaries.",
+    "funding_amount": 6000,
+    "category": [
+      "agriculture",
+      "farmer",
+      "social_security"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "land_documents"
+    ],
+    "application_url": "https://pmkisan.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit the PM-KISAN portal (pmkisan.gov.in) and click on 'New Farmer Registration'.",
+      "Step 2: Enter Aadhaar number, captcha, and state. Click on 'Search'.",
+      "Step 3: Fill in personal details, land records, bank account details, and upload necessary documents.",
+      "Step 4: Submit the application for verification by state authorities."
+    ],
+    "full_text": "Pradhan Mantri Kisan Samman Nidhi. प्रधानमंत्री किसान सम्मान निधि. ಪ್ರಧಾನ ಮಂತ್ರಿ ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ. Provides income support to all eligible landholding farmer families across the country to supplement their financial needs. The scheme aims to ensure proper crop health and appropriate yields, commensurate with the anticipated income from agricultural activity. Eligibility: All landholding farmer families, which have cultivable land in their names, are eligible. Exclusions include institutional landholders; former and present holders of constitutional posts; former and present Ministers/State Ministers; former/present MPs/MLAs/MLCs; former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats; all serving or retired officers and employees of Central/State Government Ministries/Offices/Departments and their field units, Central or State PSEs and Attached Offices/Autonomous Institutions under Government as well as regular employees of the Local Bodies (excluding Multi Tasking Staff /Class IV/Group D employees); all superannuated/retired pensioners whose monthly pension is ₹10,000/- or more (excluding Multi Tasking Staff /Class IV/Group D employees); and all persons who paid Income Tax in the last assessment year. Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with professional bodies and carrying out profession by undertaking practices are also excluded. Benefits: Financial benefit of ₹6,000 per year, payable in three equal instalments of ₹2,000 each, every four months, directly transferred to the bank accounts of the beneficiaries. Target: farmer. Category: agriculture, farmer, social_security. Ministry: Ministry of Agriculture & Farmers Welfare. Documents: aadhaar, bank_passbook, land_documents."
+  },
+  {
+    "scheme_id": "pm-fasal-bima-yojana",
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "title_hi": "प्रधानमंत्री फसल बीमा योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಫಸಲ್ ಭೀಮಾ ಯೋಜನೆ",
+    "description": "Provides comprehensive insurance cover against failure of crops, thereby helping in stabilising the income of farmers. It aims to provide financial support to farmers suffering crop loss/damage arising out of unforeseen events.",
+    "eligibility_text": "All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible. Compulsory for farmers who have taken institutional loans (KCC/Crop Loan) for notified crops. Voluntary for other farmers.",
+    "benefits_text": "Insurance cover for crop loss due to non-preventable natural risks (e.g., drought, flood, hailstorm, landslide), pests, and diseases. Farmers pay a nominal premium: 2% for all Kharif crops, 1.5% for all Rabi crops, and 5% for commercial/horticultural crops. The remaining premium is borne by the Central and State Governments.",
+    "funding_amount": null,
+    "category": [
+      "agriculture",
+      "farmer",
+      "insurance"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "land_documents",
+      "ration_card"
+    ],
+    "application_url": "https://pmfby.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Farmers can apply online through the PMFBY portal or offline through banks, cooperative societies, or Common Service Centers (CSCs).",
+      "Step 2: Submit required documents including land records, bank passbook, Aadhaar card, and crop sowing declaration.",
+      "Step 3: Pay the applicable premium amount.",
+      "Step 4: Receive confirmation of insurance cover."
+    ],
+    "full_text": "Pradhan Mantri Fasal Bima Yojana. प्रधानमंत्री फसल बीमा योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಫಸಲ್ ಭೀಮಾ ಯೋಜನೆ. Provides comprehensive insurance cover against failure of crops, thereby helping in stabilising the income of farmers. It aims to provide financial support to farmers suffering crop loss/damage arising out of unforeseen events. Eligibility: All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible. Compulsory for farmers who have taken institutional loans (KCC/Crop Loan) for notified crops. Voluntary for other farmers. Benefits: Insurance cover for crop loss due to non-preventable natural risks (e.g., drought, flood, hailstorm, landslide), pests, and diseases. Farmers pay a nominal premium: 2% for all Kharif crops, 1.5% for all Rabi crops, and 5% for commercial/horticultural crops. The remaining premium is borne by the Central and State Governments. Target: farmer. Category: agriculture, farmer, insurance. Ministry: Ministry of Agriculture & Farmers Welfare. Documents: aadhaar, bank_passbook, land_documents, ration_card."
+  },
+  {
+    "scheme_id": "kisan-credit-card",
+    "title": "Kisan Credit Card Scheme",
+    "title_hi": "किसान क्रेडिट कार्ड योजना",
+    "title_kn": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಯೋಜನೆ",
+    "description": "Provides timely and adequate credit support to farmers for their cultivation needs, including the purchase of agricultural inputs like seeds, fertilizers, pesticides, and for meeting their production needs. It also covers post-harvest expenses, working capital for dairy/fisheries, and investment credit for allied activities.",
+    "eligibility_text": "All farmers — individual/joint cultivators, tenant farmers, oral lessees, and sharecroppers are eligible. Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including tenant farmers, sharecroppers, etc., are also eligible. Farmers must be engaged in agricultural operations or allied activities.",
+    "benefits_text": "Short-term credit limit for crop production, post-harvest expenses, marketing loans, and working capital for allied activities. The credit limit depends on the cropping pattern, scale of finance, and landholding. Interest subvention of 2% for prompt repayment, effectively bringing the interest rate down to 4% per annum for loans up to ₹3 lakh.",
+    "funding_amount": 300000,
+    "category": [
+      "agriculture",
+      "farmer",
+      "business_loan"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Finance (implemented by banks), Ministry of Agriculture & Farmers Welfare (nodal)",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 75,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "land_documents",
+      "bank_passbook",
+      "passport_photo"
+    ],
+    "application_url": "https://www.pmkisan.gov.in/KccGuide.aspx",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit a commercial bank, regional rural bank, or cooperative bank.",
+      "Step 2: Fill out the KCC application form.",
+      "Step 3: Submit required documents including identity proof, address proof, and land records.",
+      "Step 4: Bank verifies documents and assesses eligibility before sanctioning the KCC."
+    ],
+    "full_text": "Kisan Credit Card Scheme. किसान क्रेडिट कार्ड योजना. ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಯೋಜನೆ. Provides timely and adequate credit support to farmers for their cultivation needs, including the purchase of agricultural inputs like seeds, fertilizers, pesticides, and for meeting their production needs. It also covers post-harvest expenses, working capital for dairy/fisheries, and investment credit for allied activities. Eligibility: All farmers — individual/joint cultivators, tenant farmers, oral lessees, and sharecroppers are eligible. Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including tenant farmers, sharecroppers, etc., are also eligible. Farmers must be engaged in agricultural operations or allied activities. Benefits: Short-term credit limit for crop production, post-harvest expenses, marketing loans, and working capital for allied activities. The credit limit depends on the cropping pattern, scale of finance, and landholding. Interest subvention of 2% for prompt repayment, effectively bringing the interest rate down to 4% per annum for loans up to ₹3 lakh. Target: farmer. Category: agriculture, farmer, business_loan. Ministry: Ministry of Finance (implemented by banks), Ministry of Agriculture & Farmers Welfare (nodal). Documents: aadhaar, pan, land_documents, bank_passbook, passport_photo."
+  },
+  {
+    "scheme_id": "pm-krishi-sinchayee-yojana",
+    "title": "Pradhan Mantri Krishi Sinchayee Yojana",
+    "title_hi": "प्रधानमंत्री कृषि सिंचाई योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೃಷಿ ಸಿಂಚಾಯಿ ಯೋಜನೆ",
+    "description": "Aims to achieve 'Har Khet Ko Pani' (Water to Every Field) and 'More Crop Per Drop' by ensuring assured irrigation to all farmlands. It focuses on end-to-end solutions for water source, distribution, and efficient use.",
+    "eligibility_text": "All farmers are eligible. The scheme components cater to different needs: Accelerated Irrigation Benefit Programme (AIBP) for major/medium irrigation projects, PMKSY (Har Khet Ko Pani) for extension of irrigation network, Per Drop More Crop (PDMC) for micro-irrigation, and Watershed Development component for rainwater harvesting. Specific component eligibility varies.",
+    "benefits_text": "Financial assistance for creating new water sources (wells, borewells), construction of farm ponds, canal systems, and adoption of micro-irrigation techniques (drip and sprinkler irrigation). Subsidy rates for micro-irrigation generally range from 50% to 55% for small and marginal farmers, and 45% for other farmers (Central share). State share is additional.",
+    "funding_amount": null,
+    "category": [
+      "agriculture",
+      "farmer"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare, Ministry of Jal Shakti, Ministry of Rural Development",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "land_documents",
+      "bank_passbook",
+      "passport_photo"
+    ],
+    "application_url": "https://pmksy.nic.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Farmers can apply through the respective State Agriculture/Horticulture Department portals or through Common Service Centers (CSCs).",
+      "Step 2: Select the desired component (e.g., drip irrigation, farm pond).",
+      "Step 3: Submit required documents including land records, identity proof, and bank details.",
+      "Step 4: Application is verified, and field inspection may be conducted before subsidy sanction and work implementation."
+    ],
+    "full_text": "Pradhan Mantri Krishi Sinchayee Yojana. प्रधानमंत्री कृषि सिंचाई योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೃಷಿ ಸಿಂಚಾಯಿ ಯೋಜನೆ. Aims to achieve 'Har Khet Ko Pani' (Water to Every Field) and 'More Crop Per Drop' by ensuring assured irrigation to all farmlands. It focuses on end-to-end solutions for water source, distribution, and efficient use. Eligibility: All farmers are eligible. The scheme components cater to different needs: Accelerated Irrigation Benefit Programme (AIBP) for major/medium irrigation projects, PMKSY (Har Khet Ko Pani) for extension of irrigation network, Per Drop More Crop (PDMC) for micro-irrigation, and Watershed Development component for rainwater harvesting. Specific component eligibility varies. Benefits: Financial assistance for creating new water sources (wells, borewells), construction of farm ponds, canal systems, and adoption of micro-irrigation techniques (drip and sprinkler irrigation). Subsidy rates for micro-irrigation generally range from 50% to 55% for small and marginal farmers, and 45% for other farmers (Central share). State share is additional. Target: farmer. Category: agriculture, farmer. Ministry: Ministry of Agriculture & Farmers Welfare, Ministry of Jal Shakti, Ministry of Rural Development. Documents: aadhaar, land_documents, bank_passbook, passport_photo."
+  },
+  {
+    "scheme_id": "soil-health-card",
+    "title": "Soil Health Card Scheme",
+    "title_hi": "मृदा स्वास्थ्य कार्ड योजना",
+    "title_kn": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ",
+    "description": "Aims to provide every farmer with a Soil Health Card (SHC) to assess the nutrient status of their soil and recommend appropriate doses of nutrients and soil amendments. This helps farmers to improve soil fertility and productivity sustainably.",
+    "eligibility_text": "All farmers who own cultivable land are eligible to receive a Soil Health Card.",
+    "benefits_text": "A personalized Soil Health Card every 2 years, which contains details about the nutrient status of their soil, along with recommendations on the appropriate dosage of nutrients (fertilizers) and necessary soil amendments for different crops. The card is provided free of cost to farmers.",
+    "funding_amount": null,
+    "category": [
+      "agriculture",
+      "farmer"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "land_documents"
+    ],
+    "application_url": "https://www.soilhealth.dac.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: State agriculture departments collect soil samples from farmers' fields across the country.",
+      "Step 2: Soil samples are tested in soil testing laboratories for various parameters (N, P, K, micro-nutrients, pH, EC, Organic Carbon).",
+      "Step 3: Based on the test results, recommendations are formulated for crop-wise nutrient management.",
+      "Step 4: Soil Health Cards are generated and distributed to farmers by the agriculture department, often through village-level camps."
+    ],
+    "full_text": "Soil Health Card Scheme. मृदा स्वास्थ्य कार्ड योजना. ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ. Aims to provide every farmer with a Soil Health Card (SHC) to assess the nutrient status of their soil and recommend appropriate doses of nutrients and soil amendments. This helps farmers to improve soil fertility and productivity sustainably. Eligibility: All farmers who own cultivable land are eligible to receive a Soil Health Card. Benefits: A personalized Soil Health Card every 2 years, which contains details about the nutrient status of their soil, along with recommendations on the appropriate dosage of nutrients (fertilizers) and necessary soil amendments for different crops. The card is provided free of cost to farmers. Target: farmer. Category: agriculture, farmer. Ministry: Ministry of Agriculture & Farmers Welfare. Documents: land_documents."
+  },
+  {
+    "scheme_id": "nmsa",
+    "title": "National Mission for Sustainable Agriculture",
+    "title_hi": "राष्ट्रीय सतत कृषि मिशन",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಸುಸ್ಥಿರ ಕೃಷಿ ಮಿಷನ್",
+    "description": "Focuses on promoting sustainable agriculture practices that are adapted to climate change and enhance agricultural productivity, especially in rainfed areas. It includes components like Rainfed Area Development (RAD), Soil Health Management (SHM), and Climate Change and Sustainable Agriculture (CCSA).",
+    "eligibility_text": "Farmers, Farmer Producer Organizations (FPOs), Self-Help Groups (SHGs), and Joint Liability Groups (JLGs) are eligible for various components under NMSA. Specific eligibility criteria vary per sub-component (e.g., organic farming, soil health management).",
+    "benefits_text": "Provides financial assistance and technical support for adopting sustainable farming practices such as organic farming, integrated farming systems, water use efficiency, soil health management, and promoting climate-resilient agriculture. Subsidy rates vary for different interventions based on the specific sub-scheme.",
+    "funding_amount": null,
+    "category": [
+      "agriculture",
+      "farmer"
+    ],
+    "target_group": [
+      "farmer"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "land_documents",
+      "bank_passbook"
+    ],
+    "application_url": "https://nmsa.dac.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Farmers interested in specific components (e.g., organic farming certification, integrated farming) approach their State Agriculture Department.",
+      "Step 2: Fill out application forms for the relevant sub-scheme.",
+      "Step 3: Submit necessary documents like land records, Aadhaar, and bank details.",
+      "Step 4: Applications are processed, and financial assistance/technical support is provided after verification and approval."
+    ],
+    "full_text": "National Mission for Sustainable Agriculture. राष्ट्रीय सतत कृषि मिशन. ರಾಷ್ಟ್ರೀಯ ಸುಸ್ಥಿರ ಕೃಷಿ ಮಿಷನ್. Focuses on promoting sustainable agriculture practices that are adapted to climate change and enhance agricultural productivity, especially in rainfed areas. It includes components like Rainfed Area Development (RAD), Soil Health Management (SHM), and Climate Change and Sustainable Agriculture (CCSA). Eligibility: Farmers, Farmer Producer Organizations (FPOs), Self-Help Groups (SHGs), and Joint Liability Groups (JLGs) are eligible for various components under NMSA. Specific eligibility criteria vary per sub-component (e.g., organic farming, soil health management). Benefits: Provides financial assistance and technical support for adopting sustainable farming practices such as organic farming, integrated farming systems, water use efficiency, soil health management, and promoting climate-resilient agriculture. Subsidy rates vary for different interventions based on the specific sub-scheme. Target: farmer. Category: agriculture, farmer. Ministry: Ministry of Agriculture & Farmers Welfare. Documents: aadhaar, land_documents, bank_passbook."
+  },
+  {
+    "scheme_id": "agriculture-infrastructure-fund",
+    "title": "Agriculture Infrastructure Fund",
+    "title_hi": "कृषि अवसंरचना कोष",
+    "title_kn": "ಕೃಷಿ ಮೂಲಸೌಕರ್ಯ ನಿಧಿ",
+    "description": "A pan-India central sector scheme that provides a medium-long term debt financing facility for investment in viable projects for post-harvest management infrastructure and community farming assets. It aims to mobilize a medium to long-term debt financial facility for investment in agriculture infrastructure.",
+    "eligibility_text": "Primary Agricultural Credit Societies (PACS), Marketing Cooperative Societies, Farmer Producers Organizations (FPOs), Self Help Groups (SHGs), Farmers, Joint Liability Groups (JLGs), Multipurpose Cooperative Societies, Agri-entrepreneurs, Startups, Aggregation Infrastructure Providers, and Central/State agencies or local bodies sponsored Public Private Partnership Projects.",
+    "benefits_text": "Financial facility of ₹1 Lakh Crore for eligible entities. Interest subvention of 3% per annum on all loans up to a limit of ₹2 Crore. Credit guarantee coverage under Credit Guarantee Fund Trust for Micro & Small Enterprises (CGTMSE) for loans up to ₹2 Crore. Moratorium for repayment may be between 6 months and 2 years.",
+    "funding_amount": 20000000,
+    "category": [
+      "agriculture",
+      "business_loan",
+      "msme",
+      "startup"
+    ],
+    "target_group": [
+      "farmer",
+      "small_business",
+      "startup"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "gst_certificate"
+    ],
+    "application_url": "https://agriinfra.dac.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Identify a viable project for post-harvest management or community farming asset.",
+      "Step 2: Prepare a detailed business plan.",
+      "Step 3: Apply for a loan through banks or financial institutions registered under the AIF scheme.",
+      "Step 4: Bank assesses the project proposal and sanctions the loan with applicable interest subvention and credit guarantee."
+    ],
+    "full_text": "Agriculture Infrastructure Fund. कृषि अवसंरचना कोष. ಕೃಷಿ ಮೂಲಸೌಕರ್ಯ ನಿಧಿ. A pan-India central sector scheme that provides a medium-long term debt financing facility for investment in viable projects for post-harvest management infrastructure and community farming assets. It aims to mobilize a medium to long-term debt financial facility for investment in agriculture infrastructure. Eligibility: Primary Agricultural Credit Societies (PACS), Marketing Cooperative Societies, Farmer Producers Organizations (FPOs), Self Help Groups (SHGs), Farmers, Joint Liability Groups (JLGs), Multipurpose Cooperative Societies, Agri-entrepreneurs, Startups, Aggregation Infrastructure Providers, and Central/State agencies or local bodies sponsored Public Private Partnership Projects. Benefits: Financial facility of ₹1 Lakh Crore for eligible entities. Interest subvention of 3% per annum on all loans up to a limit of ₹2 Crore. Credit guarantee coverage under Credit Guarantee Fund Trust for Micro & Small Enterprises (CGTMSE) for loans up to ₹2 Crore. Moratorium for repayment may be between 6 months and 2 years. Target: farmer, small_business, startup. Category: agriculture, business_loan, msme, startup. Ministry: Ministry of Agriculture & Farmers Welfare. Documents: aadhaar, pan, bank_passbook, business_plan, gst_certificate."
+  },
+  {
+    "scheme_id": "pm-awas-yojana-urban",
+    "title": "Pradhan Mantri Awas Yojana - Urban",
+    "title_hi": "प्रधानमंत्री आवास योजना - शहरी",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ನಗರ",
+    "description": "This scheme aims to provide affordable housing to all eligible urban poor, including slum dwellers, by ensuring a pucca house with basic amenities. It is implemented through four verticals: In-situ Slum Redevelopment, Credit Linked Subsidy Scheme (CLSS), Affordable Housing in Partnership, and Beneficiary-led Individual House Construction/Enhancement.",
+    "eligibility_text": "A beneficiary family should not own a pucca house in their name or in the name of any family member (husband, wife, unmarried sons, and/or unmarried daughters) in any part of India. The household income criteria for different categories are: Economically Weaker Section (EWS) with annual household income up to ₹3 lakh; Low Income Group (LIG) with annual household income between ₹3 lakh and ₹6 lakh; Middle Income Group-I (MIG-I) with annual household income between ₹6 lakh and ₹12 lakh; and Middle Income Group-II (MIG-II) with annual household income between ₹12 lakh and ₹18 lakh.",
+    "benefits_text": "Under the Credit Linked Subsidy Scheme (CLSS), beneficiaries receive interest subsidy on home loans: EWS/LIG households receive 6.5% interest subsidy on loans up to ₹6 lakh, MIG-I households receive 4% interest subsidy on loans up to ₹9 lakh, and MIG-II households receive 3% interest subsidy on loans up to ₹12 lakh. Other components provide financial assistance or housing development.",
+    "funding_amount": 267280,
+    "category": [
+      "housing",
+      "urban_poor"
+    ],
+    "target_group": [
+      "bpl",
+      "urban_poor",
+      "women",
+      "sc_st",
+      "obc",
+      "minority"
+    ],
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": 1800000,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "income_certificate",
+      "domicile_certificate",
+      "bank_passbook",
+      "passport_photo",
+      "caste_certificate",
+      "land_documents"
+    ],
+    "application_url": "https://pmaymis.gov.in/",
+    "deadline": "2024-12-31",
+    "application_steps": [
+      "Visit the official PMAY-U website (pmaymis.gov.in) or a Common Service Centre (CSC) / bank / empanelled agency.",
+      "Choose the appropriate component (e.g., CLSS, Beneficiary-led construction) based on eligibility.",
+      "Fill out the application form with personal, income, and property details.",
+      "Upload required documents and submit the application."
+    ],
+    "full_text": "Pradhan Mantri Awas Yojana - Urban. प्रधानमंत्री आवास योजना - शहरी. ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ನಗರ. This scheme aims to provide affordable housing to all eligible urban poor, including slum dwellers, by ensuring a pucca house with basic amenities. It is implemented through four verticals: In-situ Slum Redevelopment, Credit Linked Subsidy Scheme (CLSS), Affordable Housing in Partnership, and Beneficiary-led Individual House Construction/Enhancement. Eligibility: A beneficiary family should not own a pucca house in their name or in the name of any family member (husband, wife, unmarried sons, and/or unmarried daughters) in any part of India. The household income criteria for different categories are: Economically Weaker Section (EWS) with annual household income up to ₹3 lakh; Low Income Group (LIG) with annual household income between ₹3 lakh and ₹6 lakh; Middle Income Group-I (MIG-I) with annual household income between ₹6 lakh and ₹12 lakh; and Middle Income Group-II (MIG-II) with annual household income between ₹12 lakh and ₹18 lakh. Benefits: Under the Credit Linked Subsidy Scheme (CLSS), beneficiaries receive interest subsidy on home loans: EWS/LIG households receive 6.5% interest subsidy on loans up to ₹6 lakh, MIG-I households receive 4% interest subsidy on loans up to ₹9 lakh, and MIG-II households receive 3% interest subsidy on loans up to ₹12 lakh. Other components provide financial assistance or housing development. Target: bpl, urban_poor, women, sc_st, obc, minority. Category: housing, urban_poor. Ministry: Ministry of Housing and Urban Affairs. Documents: aadhaar, pan, income_certificate, domicile_certificate, bank_passbook, passport_photo, caste_certificate, land_documents."
+  },
+  {
+    "scheme_id": "pm-awas-yojana-gramin",
+    "title": "Pradhan Mantri Awas Yojana - Gramin",
+    "title_hi": "प्रधानमंत्री आवास योजना - ग्रामीण",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ಗ್ರಾಮೀಣ",
+    "description": "This scheme aims to provide a pucca house with basic amenities to all houseless households and households living in kutcha and dilapidated houses in rural areas. It offers financial assistance for the construction of houses, along with additional support for sanitation and unskilled labour.",
+    "eligibility_text": "Beneficiaries are identified based on the housing deprivation parameters of the Socio Economic Caste Census (SECC) 2011 data, subject to validation by Gram Sabhas. Houseless households and those living in 0, 1, or 2 kutcha room houses are prioritized. The beneficiary must not own a pucca house anywhere in India. Priority is given to vulnerable groups including SC/ST households, minorities, PwDs, and women-headed households.",
+    "benefits_text": "Financial assistance of ₹1.20 lakh in plain areas and ₹1.30 lakh in hilly states/difficult areas/Integrated Action Plan (IAP) districts for house construction. Beneficiaries are also entitled to 90-95 days of unskilled labour wage under MGNREGA and ₹12,000 for the construction of toilets under Swachh Bharat Mission (Gramin) (SBM-G).",
+    "funding_amount": 130000,
+    "category": [
+      "housing",
+      "rural"
+    ],
+    "target_group": [
+      "bpl",
+      "rural",
+      "sc_st",
+      "obc",
+      "minority",
+      "women",
+      "disabled"
+    ],
+    "ministry": "Ministry of Rural Development",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "ration_card",
+      "caste_certificate",
+      "land_documents",
+      "passport_photo"
+    ],
+    "application_url": "https://pmayg.nic.in/",
+    "deadline": "2024-03-31",
+    "application_steps": [
+      "Identification of beneficiaries is done from the SECC 2011 data, validated by Gram Sabha.",
+      "The finalized list of beneficiaries is published by the Gram Panchayat.",
+      "Eligible households approach the Gram Panchayat or Block Development Office to complete the application process.",
+      "Necessary documents are verified and uploaded to the PMAY-G online system."
+    ],
+    "full_text": "Pradhan Mantri Awas Yojana - Gramin. प्रधानमंत्री आवास योजना - ग्रामीण. ಪ್ರಧಾನ ಮಂತ್ರಿ ಆವಾಸ್ ಯೋಜನೆ - ಗ್ರಾಮೀಣ. This scheme aims to provide a pucca house with basic amenities to all houseless households and households living in kutcha and dilapidated houses in rural areas. It offers financial assistance for the construction of houses, along with additional support for sanitation and unskilled labour. Eligibility: Beneficiaries are identified based on the housing deprivation parameters of the Socio Economic Caste Census (SECC) 2011 data, subject to validation by Gram Sabhas. Houseless households and those living in 0, 1, or 2 kutcha room houses are prioritized. The beneficiary must not own a pucca house anywhere in India. Priority is given to vulnerable groups including SC/ST households, minorities, PwDs, and women-headed households. Benefits: Financial assistance of ₹1.20 lakh in plain areas and ₹1.30 lakh in hilly states/difficult areas/Integrated Action Plan (IAP) districts for house construction. Beneficiaries are also entitled to 90-95 days of unskilled labour wage under MGNREGA and ₹12,000 for the construction of toilets under Swachh Bharat Mission (Gramin) (SBM-G). Target: bpl, rural, sc_st, obc, minority, women, disabled. Category: housing, rural. Ministry: Ministry of Rural Development. Documents: aadhaar, bank_passbook, ration_card, caste_certificate, land_documents, passport_photo."
+  },
+  {
+    "scheme_id": "day-nulm",
+    "title": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission",
+    "title_hi": "दीनदयाल अंत्योदय योजना - राष्ट्रीय शहरी आजीविका मिशन",
+    "title_kn": "ದೀನದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ - ರಾಷ್ಟ್ರೀಯ ನಗರ ಜೀವನೋಪಾಯ ಮಿಷನ್",
+    "description": "This mission aims to reduce poverty and vulnerability of the urban poor households by enabling them to access gainful self-employment and skilled wage employment opportunities. It provides support through skill development, self-employment programs with subsidized loans, and better access to basic social services.",
+    "eligibility_text": "Target beneficiaries are urban poor (individuals or groups) living below the poverty line (BPL) in urban areas. For Self-Employment Programme (SEP), individuals must be 18 years or above. Self Help Groups (SHGs) applying for group enterprises must consist of at least 5 members, with 70% of the members being women.",
+    "benefits_text": "The scheme offers various benefits including skill training for employment and self-employment. Under the Self-Employment Programme (SEP), individuals can avail an interest subsidy on bank loans up to ₹2 lakh, while groups can avail subsidy on loans up to ₹10 lakh for setting up micro-enterprises. It also supports the formation of Self Help Groups (SHGs), provides support to urban street vendors, and facilitates shelters for the urban homeless.",
+    "funding_amount": 1000000,
+    "category": [
+      "skill_development",
+      "entrepreneurship",
+      "business_loan",
+      "urban_poor",
+      "women",
+      "social_security"
+    ],
+    "target_group": [
+      "urban_poor",
+      "bpl",
+      "women",
+      "youth",
+      "small_business",
+      "sc_st",
+      "obc",
+      "minority"
+    ],
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "income_certificate",
+      "ration_card",
+      "passport_photo",
+      "business_plan",
+      "caste_certificate"
+    ],
+    "application_url": "https://nulm.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Form a Self Help Group (SHG) or identify as an individual urban poor.",
+      "Approach the Urban Local Body (ULB) or City Livelihoods Centre (CLC) for information and application forms.",
+      "Undergo skill training through empanelled training partners (if opting for skill development component).",
+      "Prepare a micro-enterprise business plan (for SEP) and apply for a bank loan with interest subsidy through ULB/CLC."
+    ],
+    "full_text": "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission. दीनदयाल अंत्योदय योजना - राष्ट्रीय शहरी आजीविका मिशन. ದೀನದಯಾಳ್ ಅಂತ್ಯೋದಯ ಯೋಜನೆ - ರಾಷ್ಟ್ರೀಯ ನಗರ ಜೀವನೋಪಾಯ ಮಿಷನ್. This mission aims to reduce poverty and vulnerability of the urban poor households by enabling them to access gainful self-employment and skilled wage employment opportunities. It provides support through skill development, self-employment programs with subsidized loans, and better access to basic social services. Eligibility: Target beneficiaries are urban poor (individuals or groups) living below the poverty line (BPL) in urban areas. For Self-Employment Programme (SEP), individuals must be 18 years or above. Self Help Groups (SHGs) applying for group enterprises must consist of at least 5 members, with 70% of the members being women. Benefits: The scheme offers various benefits including skill training for employment and self-employment. Under the Self-Employment Programme (SEP), individuals can avail an interest subsidy on bank loans up to ₹2 lakh, while groups can avail subsidy on loans up to ₹10 lakh for setting up micro-enterprises. It also supports the formation of Self Help Groups (SHGs), provides support to urban street vendors, and facilitates shelters for the urban homeless. Target: urban_poor, bpl, women, youth, small_business, sc_st, obc, minority. Category: skill_development, entrepreneurship, business_loan, urban_poor, women, social_security. Ministry: Ministry of Housing and Urban Affairs. Documents: aadhaar, bank_passbook, income_certificate, ration_card, passport_photo, business_plan, caste_certificate."
+  },
+  {
+    "scheme_id": "pm-svanidhi",
+    "title": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+    "title_hi": "पीएम स्वनिधि (प्रधानमंत्री स्ट्रीट वेंडर आत्मनिर्भर निधि)",
+    "title_kn": "ಪಿಎಂ ಸ್ವನಿಧಿ (ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ಟ್ರೀಟ್ ವೆಂಡರ್ ಆತ್ಮನಿರ್ಭರ್ ನಿಧಿ)",
+    "description": "PM SVANidhi is a special micro-credit facility launched to provide collateral-free working capital loans to street vendors to help them resume their livelihoods, which were adversely affected by the COVID-19 pandemic. The scheme also promotes digital transactions among street vendors through cashback incentives.",
+    "eligibility_text": "Street vendors in urban areas who were engaged in vending on or before March 24, 2020. Applicants must possess a Certificate of Vending (CoV) or Identity Card issued by Urban Local Bodies (ULBs). Vendors without CoV/ID cards can obtain a Letter of Recommendation (LoR) from ULBs or be part of a survey to prove their vending status. The minimum age for application is 18 years.",
+    "benefits_text": "Street vendors can avail a collateral-free working capital loan of up to ₹10,000 for the first tranche. Upon timely or early repayment, they become eligible for an enhanced second loan of up to ₹20,000, and a third loan of up to ₹50,000. An interest subsidy of 7% is provided on timely/early repayment, credited quarterly. Digital transactions are incentivized with a cashback up to ₹100 per month.",
+    "funding_amount": 50000,
+    "category": [
+      "entrepreneurship",
+      "business_loan",
+      "urban_poor",
+      "msme"
+    ],
+    "target_group": [
+      "urban_poor",
+      "small_business",
+      "youth",
+      "women",
+      "all"
+    ],
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": "all",
+    "min_age": 18,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "pan",
+      "passport_photo",
+      "voter_id"
+    ],
+    "application_url": "https://pmsvanidhi.mohua.gov.in/",
+    "deadline": "2024-12-31",
+    "application_steps": [
+      "Visit the official PM SVANidhi portal (pmsvanidhi.mohua.gov.in) or a Common Service Centre (CSC).",
+      "Verify eligibility, primarily having a Certificate of Vending (CoV) or Letter of Recommendation (LoR) from the ULB.",
+      "Fill out the online application form with personal and business details.",
+      "Select a lending institution (e.g., bank, NBFC, MFI) and submit the application with required documents for verification."
+    ],
+    "full_text": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi). पीएम स्वनिधि (प्रधानमंत्री स्ट्रीट वेंडर आत्मनिर्भर निधि). ಪಿಎಂ ಸ್ವನಿಧಿ (ಪ್ರಧಾನಮಂತ್ರಿ ಸ್ಟ್ರೀಟ್ ವೆಂಡರ್ ಆತ್ಮನಿರ್ಭರ್ ನಿಧಿ). PM SVANidhi is a special micro-credit facility launched to provide collateral-free working capital loans to street vendors to help them resume their livelihoods, which were adversely affected by the COVID-19 pandemic. The scheme also promotes digital transactions among street vendors through cashback incentives. Eligibility: Street vendors in urban areas who were engaged in vending on or before March 24, 2020. Applicants must possess a Certificate of Vending (CoV) or Identity Card issued by Urban Local Bodies (ULBs). Vendors without CoV/ID cards can obtain a Letter of Recommendation (LoR) from ULBs or be part of a survey to prove their vending status. The minimum age for application is 18 years. Benefits: Street vendors can avail a collateral-free working capital loan of up to ₹10,000 for the first tranche. Upon timely or early repayment, they become eligible for an enhanced second loan of up to ₹20,000, and a third loan of up to ₹50,000. An interest subsidy of 7% is provided on timely/early repayment, credited quarterly. Digital transactions are incentivized with a cashback up to ₹100 per month. Target: urban_poor, small_business, youth, women, all. Category: entrepreneurship, business_loan, urban_poor, msme. Ministry: Ministry of Housing and Urban Affairs. Documents: aadhaar, bank_passbook, pan, passport_photo, voter_id."
+  },
+  {
+    "scheme_id": "pm-kaushal-vikas-yojana",
+    "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "title_hi": "प्रधान मंत्री कौशल विकास योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೌಶಲ್ಯ ವಿಕಾಸ ಯೋಜನೆ",
+    "description": "PMKVY is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE). It aims to enable a large number of Indian youth to take up industry-relevant skill training, helping them secure a better livelihood. The scheme focuses on providing free skill training, assessment, and certification to enhance employability.",
+    "eligibility_text": "Indian citizens, primarily targeting youth who are unemployed or school/college dropouts. General age limits are 15-35 years for most courses, though specific courses may have variations. There are no explicit income limits, but the scheme primarily benefits those seeking to enhance their skills for employment.",
+    "benefits_text": "Provides free skill training, assessment, and certification. Successful candidates receive a financial reward (typically Rs. 500 to Rs. 1500, depending on the scheme component and course duration) upon successful completion and certification. Placement assistance is also provided.",
+    "funding_amount": 1500,
+    "category": [
+      "skill_development",
+      "employment"
+    ],
+    "target_group": [
+      "youth",
+      "unemployed",
+      "school_dropouts",
+      "all"
+    ],
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "state": "all",
+    "min_age": 15,
+    "max_age": 35,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://pmkvyofficial.org/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Locate an approved PMKVY training centre.",
+      "Step 2: Enroll in a desired skill training program.",
+      "Step 3: Complete the training, undergo assessment, and receive certification and financial reward."
+    ],
+    "full_text": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY). प्रधान मंत्री कौशल विकास योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಕೌಶಲ್ಯ ವಿಕಾಸ ಯೋಜನೆ. PMKVY is the flagship scheme of the Ministry of Skill Development and Entrepreneurship (MSDE). It aims to enable a large number of Indian youth to take up industry-relevant skill training, helping them secure a better livelihood. The scheme focuses on providing free skill training, assessment, and certification to enhance employability. Eligibility: Indian citizens, primarily targeting youth who are unemployed or school/college dropouts. General age limits are 15-35 years for most courses, though specific courses may have variations. There are no explicit income limits, but the scheme primarily benefits those seeking to enhance their skills for employment. Benefits: Provides free skill training, assessment, and certification. Successful candidates receive a financial reward (typically Rs. 500 to Rs. 1500, depending on the scheme component and course duration) upon successful completion and certification. Placement assistance is also provided. Target: youth, unemployed, school_dropouts, all. Category: skill_development, employment. Ministry: Ministry of Skill Development and Entrepreneurship. Documents: aadhaar, bank_passbook, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "deen-dayal-upadhyaya-grameen-kaushalya-yojana",
+    "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "title_hi": "दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना",
+    "title_kn": "ದೀನ್ ದಯಾಳ್ ಉಪಾಧ್ಯಾಯ ಗ್ರಾಮೀಣ ಕೌಶಲ್ಯ ಯೋಜನೆ",
+    "description": "DDU-GKY is a placement-linked skill development program for rural poor youth, implemented by the Ministry of Rural Development. It aims to transform rural poor youth into an economically independent and globally relevant workforce. The scheme mandates placement for at least 70% of trained candidates.",
+    "eligibility_text": "Rural youth aged between 15 and 35 years. For women, SC/ST, PVTGs (Particularly Vulnerable Tribal Groups), and Persons with Disabilities (PWDs), the upper age limit is relaxed to 45 years. Must belong to a BPL (Below Poverty Line) household or a household covered under Antyodaya Anna Yojana (AAY) or Rashtriya Swasthya Bima Yojana (RSBY), or be a member of a Self-Help Group (SHG) household.",
+    "benefits_text": "Provides free skill training, residential facilities (for some programs), uniforms, learning material, and placement assistance. There is no direct cash transfer or loan amount to the beneficiary; the benefit is the comprehensive training and support provided.",
+    "funding_amount": null,
+    "category": [
+      "skill_development",
+      "employment",
+      "rural"
+    ],
+    "target_group": [
+      "youth",
+      "rural",
+      "bpl",
+      "sc_st",
+      "women",
+      "disabled"
+    ],
+    "ministry": "Ministry of Rural Development",
+    "state": "all",
+    "min_age": 15,
+    "max_age": 35,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "ration_card",
+      "caste_certificate",
+      "domicile_certificate",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://ddugky.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Identify an eligible Project Implementing Agency (PIA) in your district through the DDU-GKY portal.",
+      "Step 2: Enroll in a suitable skill training program offered by the PIA.",
+      "Step 3: Complete the residential training, undergo assessment, and seek placement assistance."
+    ],
+    "full_text": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY). दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना. ದೀನ್ ದಯಾಳ್ ಉಪಾಧ್ಯಾಯ ಗ್ರಾಮೀಣ ಕೌಶಲ್ಯ ಯೋಜನೆ. DDU-GKY is a placement-linked skill development program for rural poor youth, implemented by the Ministry of Rural Development. It aims to transform rural poor youth into an economically independent and globally relevant workforce. The scheme mandates placement for at least 70% of trained candidates. Eligibility: Rural youth aged between 15 and 35 years. For women, SC/ST, PVTGs (Particularly Vulnerable Tribal Groups), and Persons with Disabilities (PWDs), the upper age limit is relaxed to 45 years. Must belong to a BPL (Below Poverty Line) household or a household covered under Antyodaya Anna Yojana (AAY) or Rashtriya Swasthya Bima Yojana (RSBY), or be a member of a Self-Help Group (SHG) household. Benefits: Provides free skill training, residential facilities (for some programs), uniforms, learning material, and placement assistance. There is no direct cash transfer or loan amount to the beneficiary; the benefit is the comprehensive training and support provided. Target: youth, rural, bpl, sc_st, women, disabled. Category: skill_development, employment, rural. Ministry: Ministry of Rural Development. Documents: aadhaar, bank_passbook, ration_card, caste_certificate, domicile_certificate, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "national-apprenticeship-promotion-scheme",
+    "title": "National Apprenticeship Promotion Scheme (NAPS)",
+    "title_hi": "राष्ट्रीय शिक्षुता प्रोत्साहन योजना",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್ ಪ್ರಚಾರ ಯೋಜನೆ",
+    "description": "NAPS is launched by the Government of India to promote apprenticeship training. It provides financial incentives to employers for engaging apprentices and offers partial support for basic training. The scheme helps youth gain practical skills and industry exposure through on-the-job training.",
+    "eligibility_text": "Indian citizens aged 14 years or above. Educational qualifications generally range from a minimum of 5th standard pass up to ITI pass, diploma holders, or graduates. There is no upper age limit. The scheme is open to freshers and those with some prior experience.",
+    "benefits_text": "Apprentices receive a stipend from the employer as per Apprenticeship Rules. The Government provides reimbursement of 25% of the prescribed stipend to employers, up to a maximum of Rs. 1500 per month per apprentice. For Basic Training, the cost up to Rs. 7500 for a maximum of 500 hours is shared by the Government.",
+    "funding_amount": null,
+    "category": [
+      "skill_development",
+      "employment"
+    ],
+    "target_group": [
+      "youth",
+      "student",
+      "unemployed",
+      "all"
+    ],
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "state": "all",
+    "min_age": 14,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://www.apprenticeshipindia.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register as an apprentice on the NAPS portal (www.apprenticeshipindia.gov.in).",
+      "Step 2: Search for available apprenticeship opportunities posted by establishments.",
+      "Step 3: Apply to suitable establishments and undergo the selection process for apprenticeship training."
+    ],
+    "full_text": "National Apprenticeship Promotion Scheme (NAPS). राष्ट्रीय शिक्षुता प्रोत्साहन योजना. ರಾಷ್ಟ್ರೀಯ ಅಪ್ರೆಂಟಿಸ್‌ಶಿಪ್ ಪ್ರಚಾರ ಯೋಜನೆ. NAPS is launched by the Government of India to promote apprenticeship training. It provides financial incentives to employers for engaging apprentices and offers partial support for basic training. The scheme helps youth gain practical skills and industry exposure through on-the-job training. Eligibility: Indian citizens aged 14 years or above. Educational qualifications generally range from a minimum of 5th standard pass up to ITI pass, diploma holders, or graduates. There is no upper age limit. The scheme is open to freshers and those with some prior experience. Benefits: Apprentices receive a stipend from the employer as per Apprenticeship Rules. The Government provides reimbursement of 25% of the prescribed stipend to employers, up to a maximum of Rs. 1500 per month per apprentice. For Basic Training, the cost up to Rs. 7500 for a maximum of 500 hours is shared by the Government. Target: youth, student, unemployed, all. Category: skill_development, employment. Ministry: Ministry of Skill Development and Entrepreneurship. Documents: aadhaar, bank_passbook, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "pm-daksh-yojana",
+    "title": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH) Yojana",
+    "title_hi": "प्रधानमंत्री दक्षता और कुशलता संपन्न हितग्राही (पीएम-दक्ष) योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ದಕ್ಷತಾ ಔರ್ ಕುಶಲತಾ ಸಂಪನ್ನ ಹಿತಗ್ರಾಹಿ (ಪಿಎಂ-ದಕ್ಷ) ಯೋಜನೆ",
+    "description": "Implemented by the Ministry of Social Justice and Empowerment, PM-DAKSH Yojana provides skill development training to target groups. These groups include Scheduled Castes, Other Backward Classes, Economically Backward Classes, Denotified Tribes, and Sanitation Workers, including waste pickers, to enhance their employability and entrepreneurial capabilities.",
+    "eligibility_text": "Beneficiaries must belong to SC, OBC, EBC, DNT categories, or be Sanitation Workers (including waste pickers). Age should be between 18 and 45 years. For OBC candidates, annual family income should not exceed Rs. 3 lakh. For EBC candidates, annual family income should not exceed Rs. 1 lakh. No income limit for SC and DNT candidates and Sanitation Workers.",
+    "benefits_text": "Provides free skill development training, including upskilling/reskilling, short-term training, long-term training, and entrepreneurship development programs. A stipend of Rs. 1,000 to Rs. 1,500 per month is provided to beneficiaries during the training period, depending on the course type.",
+    "funding_amount": 1500,
+    "category": [
+      "skill_development",
+      "employment",
+      "sc_st",
+      "obc",
+      "minority",
+      "social_security"
+    ],
+    "target_group": [
+      "sc_st",
+      "obc",
+      "minority",
+      "youth",
+      "unemployed",
+      "bpl",
+      "rural_poor",
+      "urban_poor"
+    ],
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 45,
+    "max_income": 300000,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook",
+      "caste_certificate",
+      "income_certificate",
+      "domicile_certificate",
+      "education_certificate",
+      "passport_photo"
+    ],
+    "application_url": "https://pmdaksh.dosje.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit the PM-DAKSH portal and register as a beneficiary by providing necessary details.",
+      "Step 2: Select a suitable skill training program from the available options based on eligibility and interest.",
+      "Step 3: Complete the training program, receive certification, and placement or self-employment assistance."
+    ],
+    "full_text": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH) Yojana. प्रधानमंत्री दक्षता और कुशलता संपन्न हितग्राही (पीएम-दक्ष) योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ದಕ್ಷತಾ ಔರ್ ಕುಶಲತಾ ಸಂಪನ್ನ ಹಿತಗ್ರಾಹಿ (ಪಿಎಂ-ದಕ್ಷ) ಯೋಜನೆ. Implemented by the Ministry of Social Justice and Empowerment, PM-DAKSH Yojana provides skill development training to target groups. These groups include Scheduled Castes, Other Backward Classes, Economically Backward Classes, Denotified Tribes, and Sanitation Workers, including waste pickers, to enhance their employability and entrepreneurial capabilities. Eligibility: Beneficiaries must belong to SC, OBC, EBC, DNT categories, or be Sanitation Workers (including waste pickers). Age should be between 18 and 45 years. For OBC candidates, annual family income should not exceed Rs. 3 lakh. For EBC candidates, annual family income should not exceed Rs. 1 lakh. No income limit for SC and DNT candidates and Sanitation Workers. Benefits: Provides free skill development training, including upskilling/reskilling, short-term training, long-term training, and entrepreneurship development programs. A stipend of Rs. 1,000 to Rs. 1,500 per month is provided to beneficiaries during the training period, depending on the course type. Target: sc_st, obc, minority, youth, unemployed, bpl, rural_poor, urban_poor. Category: skill_development, employment, sc_st, obc, minority, social_security. Ministry: Ministry of Social Justice and Empowerment. Documents: aadhaar, bank_passbook, caste_certificate, income_certificate, domicile_certificate, education_certificate, passport_photo."
+  },
+  {
+    "scheme_id": "pm-jan-arogya-yojana",
+    "title": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "title_hi": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना",
+    "title_kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ಪ್ರಧಾನ ಮಂತ್ರಿ ಜನ ಆರೋಗ್ಯ ಯೋಜನೆ",
+    "description": "This scheme provides health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization. It aims to cover the poorest and most vulnerable sections of the population identified through SECC 2011 data.",
+    "eligibility_text": "Beneficiaries are identified based on the deprivation and occupational criteria of SECC 2011 for rural and urban areas. Rural households with at least one deprivation criterion (D1, D2, D3, D4, D5, D7) and urban households falling under 11 occupational categories are eligible. No direct income limit, but targets economically weaker sections.",
+    "benefits_text": "Health cover of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization. This includes medical examinations, treatment, pre-hospitalisation expenses, diagnostic tests, medicines, and post-hospitalisation care.",
+    "funding_amount": 500000,
+    "category": [
+      "healthcare",
+      "social_security"
+    ],
+    "target_group": [
+      "bpl",
+      "rural",
+      "urban_poor",
+      "sc_st",
+      "obc"
+    ],
+    "ministry": "Ministry of Health and Family Welfare",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "ration_card",
+      "caste_certificate",
+      "domicile_certificate"
+    ],
+    "application_url": "https://pmjay.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Check eligibility on the official portal (PM-JAY website) or through a local Common Service Centre (CSC).",
+      "Step 2: Visit an empanelled hospital with required identification documents like Aadhaar.",
+      "Step 3: A PM-JAY Mitr at the hospital will assist with verification and facilitate the cashless hospitalization process."
+    ],
+    "full_text": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY). आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना. ಆಯುಷ್ಮಾನ್ ಭಾರತ್ ಪ್ರಧಾನ ಮಂತ್ರಿ ಜನ ಆರೋಗ್ಯ ಯೋಜನೆ. This scheme provides health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization. It aims to cover the poorest and most vulnerable sections of the population identified through SECC 2011 data. Eligibility: Beneficiaries are identified based on the deprivation and occupational criteria of SECC 2011 for rural and urban areas. Rural households with at least one deprivation criterion (D1, D2, D3, D4, D5, D7) and urban households falling under 11 occupational categories are eligible. No direct income limit, but targets economically weaker sections. Benefits: Health cover of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization. This includes medical examinations, treatment, pre-hospitalisation expenses, diagnostic tests, medicines, and post-hospitalisation care. Target: bpl, rural, urban_poor, sc_st, obc. Category: healthcare, social_security. Ministry: Ministry of Health and Family Welfare. Documents: aadhaar, ration_card, caste_certificate, domicile_certificate."
+  },
+  {
+    "scheme_id": "pm-suraksha-bima-yojana",
+    "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "title_hi": "प्रधानमंत्री सुरक्षा बीमा योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಸುರಕ್ಷಾ ಬೀಮಾ ಯೋಜನೆ",
+    "description": "An accident insurance scheme offering coverage for accidental death and disability. It provides an annual renewable insurance cover at a very affordable premium.",
+    "eligibility_text": "Available to people in the age group of 18 to 70 years with a bank account. Individuals must opt for the scheme annually and authorize auto-debit of the premium. The premium is ₹20 per annum.",
+    "benefits_text": "₹2 lakh for accidental death or total permanent disability (loss of both eyes or loss of use of both hands/feet). ₹1 lakh for partial permanent disability (loss of one eye or loss of use of one hand/foot).",
+    "funding_amount": 200000,
+    "category": [
+      "insurance",
+      "social_security"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 70,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook"
+    ],
+    "application_url": "https://jansuraksha.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit your bank branch where you hold a savings account or use net banking/mobile banking portal.",
+      "Step 2: Opt for PMSBY by filling out the application form or providing consent for auto-debit of the premium.",
+      "Step 3: Ensure sufficient balance in your bank account for the annual premium deduction (₹20)."
+    ],
+    "full_text": "Pradhan Mantri Suraksha Bima Yojana (PMSBY). प्रधानमंत्री सुरक्षा बीमा योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಸುರಕ್ಷಾ ಬೀಮಾ ಯೋಜನೆ. An accident insurance scheme offering coverage for accidental death and disability. It provides an annual renewable insurance cover at a very affordable premium. Eligibility: Available to people in the age group of 18 to 70 years with a bank account. Individuals must opt for the scheme annually and authorize auto-debit of the premium. The premium is ₹20 per annum. Benefits: ₹2 lakh for accidental death or total permanent disability (loss of both eyes or loss of use of both hands/feet). ₹1 lakh for partial permanent disability (loss of one eye or loss of use of one hand/foot). Target: all. Category: insurance, social_security. Ministry: Ministry of Finance. Documents: aadhaar, bank_passbook."
+  },
+  {
+    "scheme_id": "pm-jeevan-jyoti-bima-yojana",
+    "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "title_hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+    "title_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಜೀವನ್ ಜ್ಯೋತಿ ಬೀಮಾ ಯೋಜನೆ",
+    "description": "A life insurance scheme offering coverage for death due to any cause. It provides an annual renewable term life insurance cover at an affordable premium.",
+    "eligibility_text": "Available to people in the age group of 18 to 50 years with a bank account. Individuals must opt for the scheme annually and authorize auto-debit of the premium. The premium is ₹436 per annum.",
+    "benefits_text": "₹2 lakh on death of the insured member due to any cause, payable to the nominee.",
+    "funding_amount": 200000,
+    "category": [
+      "insurance",
+      "social_security"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 50,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook"
+    ],
+    "application_url": "https://jansuraksha.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Visit your bank branch where you hold a savings account or use net banking/mobile banking portal.",
+      "Step 2: Opt for PMJJBY by filling out the application form or providing consent for auto-debit of the premium.",
+      "Step 3: Ensure sufficient balance in your bank account for the annual premium deduction (₹436)."
+    ],
+    "full_text": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY). प्रधानमंत्री जीवन ज्योति बीमा योजना. ಪ್ರಧಾನ ಮಂತ್ರಿ ಜೀವನ್ ಜ್ಯೋತಿ ಬೀಮಾ ಯೋಜನೆ. A life insurance scheme offering coverage for death due to any cause. It provides an annual renewable term life insurance cover at an affordable premium. Eligibility: Available to people in the age group of 18 to 50 years with a bank account. Individuals must opt for the scheme annually and authorize auto-debit of the premium. The premium is ₹436 per annum. Benefits: ₹2 lakh on death of the insured member due to any cause, payable to the nominee. Target: all. Category: insurance, social_security. Ministry: Ministry of Finance. Documents: aadhaar, bank_passbook."
+  },
+  {
+    "scheme_id": "atal-pension-yojana",
+    "title": "Atal Pension Yojana (APY)",
+    "title_hi": "अटल पेंशन योजना",
+    "title_kn": "ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ",
+    "description": "A pension scheme primarily aimed at workers in the unorganized sector. It provides a guaranteed minimum pension ranging from ₹1,000 to ₹5,000 per month after 60 years of age.",
+    "eligibility_text": "Any citizen of India between the age of 18 to 40 years can join the scheme. The individual must have a savings bank account or a post office savings bank account. Income limits are not applicable, but it targets those without formal pension plans.",
+    "benefits_text": "Guaranteed minimum pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 per month after attaining 60 years of age, depending on the contributions made. The same pension is paid to the spouse after the subscriber's death, and a lump sum amount is returned to the nominee.",
+    "funding_amount": null,
+    "category": [
+      "social_security"
+    ],
+    "target_group": [
+      "all"
+    ],
+    "ministry": "Ministry of Finance",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 40,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "bank_passbook"
+    ],
+    "application_url": "https://www.npscra.nsdl.co.in/athy-pension-yojana-eNPS.php",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Approach any bank branch or post office that offers APY.",
+      "Step 2: Fill the APY registration form, providing Aadhaar and bank account details.",
+      "Step 3: Choose a desired fixed monthly pension amount (₹1,000 to ₹5,000) and the frequency of contribution (monthly/quarterly/half-yearly).",
+      "Step 4: Ensure regular contributions are made until the age of 60 through auto-debit from your bank account."
+    ],
+    "full_text": "Atal Pension Yojana (APY). अटल पेंशन योजना. ಅಟಲ್ ಪಿಂಚಣಿ ಯೋಜನೆ. A pension scheme primarily aimed at workers in the unorganized sector. It provides a guaranteed minimum pension ranging from ₹1,000 to ₹5,000 per month after 60 years of age. Eligibility: Any citizen of India between the age of 18 to 40 years can join the scheme. The individual must have a savings bank account or a post office savings bank account. Income limits are not applicable, but it targets those without formal pension plans. Benefits: Guaranteed minimum pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 per month after attaining 60 years of age, depending on the contributions made. The same pension is paid to the spouse after the subscriber's death, and a lump sum amount is returned to the nominee. Target: all. Category: social_security. Ministry: Ministry of Finance. Documents: aadhaar, bank_passbook."
+  },
+  {
+    "scheme_id": "national-family-benefit-scheme",
+    "title": "National Family Benefit Scheme (NFBS)",
+    "title_hi": "राष्ट्रीय परिवार लाभ योजना",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಕುಟುಂಬ ಲಾಭ ಯೋಜನೆ",
+    "description": "This scheme provides a lump sum financial assistance to a household below the poverty line (BPL) in the event of the death of the primary breadwinner. It is part of the National Social Assistance Programme (NSAP) aimed at providing social security to vulnerable sections.",
+    "eligibility_text": "The deceased primary breadwinner should have been between 18 and 59 years of age at the time of death. The bereaved family must be identified as living Below Poverty Line (BPL) as per the criteria prescribed by the Government of India. The death can be natural or accidental.",
+    "benefits_text": "A lump sum amount of ₹20,000 is provided to the bereaved family in the event of the death of the primary breadwinner.",
+    "funding_amount": 20000,
+    "category": [
+      "social_security"
+    ],
+    "target_group": [
+      "bpl"
+    ],
+    "ministry": "Ministry of Rural Development",
+    "state": "all",
+    "min_age": 18,
+    "max_age": 59,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "ration_card",
+      "death_certificate",
+      "bpl_certificate",
+      "bank_passbook"
+    ],
+    "application_url": "https://nsap.nic.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Obtain the death certificate of the primary breadwinner from the competent authority.",
+      "Step 2: Collect the BPL certificate and other required documents such as Aadhaar and bank passbook of the applicant.",
+      "Step 3: Apply to the concerned District Social Welfare Officer, Block Development Officer, or designated local authority.",
+      "Step 4: The application will be verified, and if approved, the financial assistance will be disbursed to the family's bank account."
+    ],
+    "full_text": "National Family Benefit Scheme (NFBS). राष्ट्रीय परिवार लाभ योजना. ರಾಷ್ಟ್ರೀಯ ಕುಟುಂಬ ಲಾಭ ಯೋಜನೆ. This scheme provides a lump sum financial assistance to a household below the poverty line (BPL) in the event of the death of the primary breadwinner. It is part of the National Social Assistance Programme (NSAP) aimed at providing social security to vulnerable sections. Eligibility: The deceased primary breadwinner should have been between 18 and 59 years of age at the time of death. The bereaved family must be identified as living Below Poverty Line (BPL) as per the criteria prescribed by the Government of India. The death can be natural or accidental. Benefits: A lump sum amount of ₹20,000 is provided to the bereaved family in the event of the death of the primary breadwinner. Target: bpl. Category: social_security. Ministry: Ministry of Rural Development. Documents: aadhaar, ration_card, death_certificate, bpl_certificate, bank_passbook."
+  },
+  {
+    "scheme_id": "msme-zed-certification",
+    "title": "MSME Zero Defect Zero Effect (ZED) Certification",
+    "title_hi": "सूक्ष्म, लघु और मध्यम उद्यम शून्य दोष शून्य प्रभाव (ZED) प्रमाणन",
+    "title_kn": "ಎಂಎಸ್ಎಂಇ ಶೂನ್ಯ ದೋಷ ಶೂನ್ಯ ಪರಿಣಾಮ (ZED) ಪ್ರಮಾಣೀಕರಣ",
+    "description": "This scheme provides financial assistance to Micro, Small, and Medium Enterprises (MSMEs) for obtaining ZED certification. It aims to improve quality and productivity in manufacturing, promote environmental sustainability, and enhance global competitiveness by encouraging adoption of quality management practices.",
+    "eligibility_text": "All manufacturing MSMEs registered with Udyam Registration are eligible. Micro MSMEs, Small MSMEs, and Medium MSMEs can apply. There are additional benefits for Women/SC/ST owned MSMEs and those in NER/Hilly/Island/LWE Regions.",
+    "benefits_text": "Financial assistance (subsidy) on the cost of ZED certification. Micro MSMEs receive 80% subsidy, Small MSMEs receive 60% subsidy, and Medium MSMEs receive 50% subsidy. An additional 10% subsidy is provided for MSMEs owned by Women/SC/ST entrepreneurs or located in NER/Hilly/Island/LWE Regions, and a further 5% for MSMEs owned by Women/SC/ST Entrepreneurs.",
+    "funding_amount": null,
+    "category": [
+      "msme",
+      "business_loan",
+      "entrepreneurship"
+    ],
+    "target_group": [
+      "small_business"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "gst_certificate"
+    ],
+    "application_url": "https://zed.msme.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the ZED portal using Udyam Registration Number.",
+      "Step 2: Complete the ZED Assessment and apply for desired certification level (Bronze, Silver, Gold).",
+      "Step 3: Undergo a physical site assessment by a certified ZED Assessor.",
+      "Step 4: Receive ZED Certificate and apply for financial assistance/subsidy."
+    ],
+    "full_text": "MSME Zero Defect Zero Effect (ZED) Certification. सूक्ष्म, लघु और मध्यम उद्यम शून्य दोष शून्य प्रभाव (ZED) प्रमाणन. ಎಂಎಸ್ಎಂಇ ಶೂನ್ಯ ದೋಷ ಶೂನ್ಯ ಪರಿಣಾಮ (ZED) ಪ್ರಮಾಣೀಕರಣ. This scheme provides financial assistance to Micro, Small, and Medium Enterprises (MSMEs) for obtaining ZED certification. It aims to improve quality and productivity in manufacturing, promote environmental sustainability, and enhance global competitiveness by encouraging adoption of quality management practices. Eligibility: All manufacturing MSMEs registered with Udyam Registration are eligible. Micro MSMEs, Small MSMEs, and Medium MSMEs can apply. There are additional benefits for Women/SC/ST owned MSMEs and those in NER/Hilly/Island/LWE Regions. Benefits: Financial assistance (subsidy) on the cost of ZED certification. Micro MSMEs receive 80% subsidy, Small MSMEs receive 60% subsidy, and Medium MSMEs receive 50% subsidy. An additional 10% subsidy is provided for MSMEs owned by Women/SC/ST entrepreneurs or located in NER/Hilly/Island/LWE Regions, and a further 5% for MSMEs owned by Women/SC/ST Entrepreneurs. Target: small_business. Category: msme, business_loan, entrepreneurship. Ministry: Ministry of Micro, Small and Medium Enterprises. Documents: aadhaar, pan, bank_passbook, gst_certificate."
+  },
+  {
+    "scheme_id": "sfurti",
+    "title": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries)",
+    "title_hi": "स्फूर्ति (पारंपरिक उद्योगों के उत्थान के लिए योजना)",
+    "title_kn": "ಸ್ಫೂರ್ತಿ (ಸಾಂಪ್ರದಾಯಿಕ ಕೈಗಾರಿಕೆಗಳ ಪುನರುತ್ಪಾದನೆಗೆ ನಿಧಿ ಯೋಜನೆ)",
+    "description": "SFURTI aims to organize traditional industries and artisans into clusters to make them competitive and sustainable. It provides support for skill development, infrastructure creation, common facility centers, product development, and marketing. The scheme intends to create sustainable employment opportunities in traditional sectors.",
+    "eligibility_text": "Implementing Agencies (IAs) such as Non-Governmental Organizations (NGOs), institutions of the Central and State Governments, semi-Government institutions, field functionaries of State and Central Govt., and Panchayati Raj Institutions (PRIs), with necessary expertise in cluster development, are eligible to propose clusters. Artisans within the identified traditional clusters are the indirect beneficiaries.",
+    "benefits_text": "Financial assistance for various cluster development activities: Soft Interventions (e.g., skill development, capacity building), Hard Interventions (e.g., common facility centres, infrastructure upgrade), and Thematic Interventions (e.g., branding, marketing). Maximum financial support per cluster varies: Rs. 2.5 Crore for Tiny Cluster (up to 500 artisans), Rs. 5 Crore for Small Cluster (501 to 1000 artisans), and Rs. 8 Crore for Major Cluster (above 1000 artisans).",
+    "funding_amount": 80000000,
+    "category": [
+      "msme",
+      "skill_development",
+      "entrepreneurship",
+      "rural"
+    ],
+    "target_group": [
+      "rural",
+      "small_business",
+      "youth",
+      "women"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "gst_certificate"
+    ],
+    "application_url": "https://sfurti.msme.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Identification of traditional industry clusters by the Nodal Agency (NA).",
+      "Step 2: Submission of a Detailed Project Report (DPR) by an Implementing Agency (IA) to a Nodal Agency.",
+      "Step 3: Evaluation and approval of the DPR by the Scheme Steering Committee.",
+      "Step 4: Release of funds to the IA and implementation of cluster development activities."
+    ],
+    "full_text": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries). स्फूर्ति (पारंपरिक उद्योगों के उत्थान के लिए योजना). ಸ್ಫೂರ್ತಿ (ಸಾಂಪ್ರದಾಯಿಕ ಕೈಗಾರಿಕೆಗಳ ಪುನರುತ್ಪಾದನೆಗೆ ನಿಧಿ ಯೋಜನೆ). SFURTI aims to organize traditional industries and artisans into clusters to make them competitive and sustainable. It provides support for skill development, infrastructure creation, common facility centers, product development, and marketing. The scheme intends to create sustainable employment opportunities in traditional sectors. Eligibility: Implementing Agencies (IAs) such as Non-Governmental Organizations (NGOs), institutions of the Central and State Governments, semi-Government institutions, field functionaries of State and Central Govt., and Panchayati Raj Institutions (PRIs), with necessary expertise in cluster development, are eligible to propose clusters. Artisans within the identified traditional clusters are the indirect beneficiaries. Benefits: Financial assistance for various cluster development activities: Soft Interventions (e.g., skill development, capacity building), Hard Interventions (e.g., common facility centres, infrastructure upgrade), and Thematic Interventions (e.g., branding, marketing). Maximum financial support per cluster varies: Rs. 2.5 Crore for Tiny Cluster (up to 500 artisans), Rs. 5 Crore for Small Cluster (501 to 1000 artisans), and Rs. 8 Crore for Major Cluster (above 1000 artisans). Target: rural, small_business, youth, women. Category: msme, skill_development, entrepreneurship, rural. Ministry: Ministry of Micro, Small and Medium Enterprises. Documents: pan, bank_passbook, business_plan, gst_certificate."
+  },
+  {
+    "scheme_id": "aspire",
+    "title": "ASPIRE (Scheme for Promotion of Innovation in Rural Economy)",
+    "title_hi": "एस्पायर (ग्रामीण अर्थव्यवस्था में नवाचार को बढ़ावा देने की योजना)",
+    "title_kn": "ಆಸ್ಪೈರ್ (ಗ್ರಾಮೀಣ ಆರ್ಥಿಕತೆಯಲ್ಲಿ ನಾವೀನ್ಯತೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಯೋಜನೆ)",
+    "description": "ASPIRE focuses on promoting innovation and rural entrepreneurship through incubation and accelerator programs. The scheme aims to create new jobs and reduce unemployment by nurturing start-ups in agro-industry and traditional sectors, fostering a culture of innovation at the grassroots level.",
+    "eligibility_text": "Incubator institutions, Technology Business Incubators (TBIs), and Entrepreneurship Development Centers (EDCs) are eligible to apply for setting up Livelihood Business Incubators (LBIs) and Technology Business Incubators (TBIs). The ultimate beneficiaries are aspiring rural entrepreneurs and youth who receive training and incubation support.",
+    "benefits_text": "Financial assistance for setting up and running incubators. Up to Rs. 100 lakh (1 Crore) is provided for establishing a Livelihood Business Incubator (LBI) for agro-rural enterprises. Up to Rs. 1000 lakh (10 Crore) is provided for establishing a Technology Business Incubator (TBI) for technology-driven enterprises. The scheme also supports training and hand-holding for entrepreneurs.",
+    "funding_amount": 100000000,
+    "category": [
+      "entrepreneurship",
+      "skill_development",
+      "msme",
+      "startup",
+      "rural"
+    ],
+    "target_group": [
+      "youth",
+      "rural",
+      "startup",
+      "small_business"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "gst_certificate"
+    ],
+    "application_url": "https://msme.gov.in/aspire-scheme-promotion-innovation-rural-industry-and-entrepreneurship",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Eligible incubator institutions submit an Expression of Interest (EOI).",
+      "Step 2: Submission of a detailed proposal for setting up an LBI or TBI.",
+      "Step 3: Evaluation and approval of the proposal by the Scheme Steering Committee.",
+      "Step 4: Release of grants and implementation of incubation and entrepreneurship development activities."
+    ],
+    "full_text": "ASPIRE (Scheme for Promotion of Innovation in Rural Economy). एस्पायर (ग्रामीण अर्थव्यवस्था में नवाचार को बढ़ावा देने की योजना). ಆಸ್ಪೈರ್ (ಗ್ರಾಮೀಣ ಆರ್ಥಿಕತೆಯಲ್ಲಿ ನಾವೀನ್ಯತೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಯೋಜನೆ). ASPIRE focuses on promoting innovation and rural entrepreneurship through incubation and accelerator programs. The scheme aims to create new jobs and reduce unemployment by nurturing start-ups in agro-industry and traditional sectors, fostering a culture of innovation at the grassroots level. Eligibility: Incubator institutions, Technology Business Incubators (TBIs), and Entrepreneurship Development Centers (EDCs) are eligible to apply for setting up Livelihood Business Incubators (LBIs) and Technology Business Incubators (TBIs). The ultimate beneficiaries are aspiring rural entrepreneurs and youth who receive training and incubation support. Benefits: Financial assistance for setting up and running incubators. Up to Rs. 100 lakh (1 Crore) is provided for establishing a Livelihood Business Incubator (LBI) for agro-rural enterprises. Up to Rs. 1000 lakh (10 Crore) is provided for establishing a Technology Business Incubator (TBI) for technology-driven enterprises. The scheme also supports training and hand-holding for entrepreneurs. Target: youth, rural, startup, small_business. Category: entrepreneurship, skill_development, msme, startup, rural. Ministry: Ministry of Micro, Small and Medium Enterprises. Documents: pan, bank_passbook, business_plan, gst_certificate."
+  },
+  {
+    "scheme_id": "udyam-registration",
+    "title": "Udyam Registration (MSME Registration)",
+    "title_hi": "उद्यम पंजीकरण (एमएसएमई पंजीकरण)",
+    "title_kn": "ಉದ್ಯಮ್ ನೋಂದಣಿ (ಎಂಎಸ್ಎಂಇ ನೋಂದಣಿ)",
+    "description": "Udyam Registration is a simplified, online, and free process for registering Micro, Small, and Medium Enterprises. It provides a unique Udyam Registration Number and certificate, which is mandatory for availing benefits under various MSME schemes and policies.",
+    "eligibility_text": "Any enterprise that qualifies as a Micro, Small, or Medium Enterprise as per the revised definition based on investment in Plant & Machinery/Equipment and Turnover: Micro Enterprise (Investment up to Rs. 1 Crore and Turnover up to Rs. 5 Crore), Small Enterprise (Investment up to Rs. 10 Crore and Turnover up to Rs. 50 Crore), Medium Enterprise (Investment up to Rs. 50 Crore and Turnover up to Rs. 250 Crore).",
+    "benefits_text": "Enables enterprises to access various government schemes, priority sector lending benefits, easier access to credit, protection against delayed payments, subsidies, and preferences in public procurement. It is a registration process to identify MSMEs and facilitate access to other benefits, not a direct financial benefit scheme itself.",
+    "funding_amount": null,
+    "category": [
+      "msme",
+      "business_loan",
+      "entrepreneurship"
+    ],
+    "target_group": [
+      "small_business",
+      "startup"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "gst_certificate"
+    ],
+    "application_url": "https://udyamregistration.gov.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Go to the Udyam Registration portal.",
+      "Step 2: Enter Aadhaar number and Name of the Proprietor/Partner/Director.",
+      "Step 3: Fill in details such as PAN, GSTIN (if applicable), enterprise name, business activity, investment in plant & machinery/equipment, and turnover.",
+      "Step 4: Submit the form to receive the Udyam Registration Number and Certificate."
+    ],
+    "full_text": "Udyam Registration (MSME Registration). उद्यम पंजीकरण (एमएसएमई पंजीकरण). ಉದ್ಯಮ್ ನೋಂದಣಿ (ಎಂಎಸ್ಎಂಇ ನೋಂದಣಿ). Udyam Registration is a simplified, online, and free process for registering Micro, Small, and Medium Enterprises. It provides a unique Udyam Registration Number and certificate, which is mandatory for availing benefits under various MSME schemes and policies. Eligibility: Any enterprise that qualifies as a Micro, Small, or Medium Enterprise as per the revised definition based on investment in Plant & Machinery/Equipment and Turnover: Micro Enterprise (Investment up to Rs. 1 Crore and Turnover up to Rs. 5 Crore), Small Enterprise (Investment up to Rs. 10 Crore and Turnover up to Rs. 50 Crore), Medium Enterprise (Investment up to Rs. 50 Crore and Turnover up to Rs. 250 Crore). Benefits: Enables enterprises to access various government schemes, priority sector lending benefits, easier access to credit, protection against delayed payments, subsidies, and preferences in public procurement. It is a registration process to identify MSMEs and facilitate access to other benefits, not a direct financial benefit scheme itself. Target: small_business, startup. Category: msme, business_loan, entrepreneurship. Ministry: Ministry of Micro, Small and Medium Enterprises. Documents: aadhaar, pan, gst_certificate."
+  },
+  {
+    "scheme_id": "tufs-textiles",
+    "title": "Technology Upgradation Fund Scheme (TUFS) for Textiles",
+    "title_hi": "वस्त्रों के लिए प्रौद्योगिकी उन्नयन निधि योजना (TUFS)",
+    "title_kn": "ಜವಳಿಗಳಿಗಾಗಿ ತಂತ್ರಜ್ಞಾನ ನವೀಕರಣ ನಿಧಿ ಯೋಜನೆ (TUFS)",
+    "description": "The Technology Upgradation Fund Scheme (TUFS) provides credit-linked subsidies for modernization and technology upgradation of the Indian textile and jute industry. It aims to make the industry more competitive globally by facilitating investment in state-of-the-art machinery and technology.",
+    "eligibility_text": "All textile and jute units, including spinning, weaving, processing, garmenting, technical textiles, and other segments of the textile value chain, are eligible if they have a definite plan for technology upgradation and modernization. The investment must be in eligible machinery as specified under the scheme guidelines.",
+    "benefits_text": "Capital subsidy on eligible machinery/equipment. The subsidy rates vary across sub-sectors. Under the Amended TUFS (ATUFS), for example, a capital subsidy of 15% is provided for garmenting and technical textiles (with a cap of Rs. 30 Crore per project) and 6% for weaving, processing, and other segments (with a cap of Rs. 20 Crore per project).",
+    "funding_amount": 300000000,
+    "category": [
+      "msme",
+      "business_loan",
+      "entrepreneurship"
+    ],
+    "target_group": [
+      "small_business",
+      "startup"
+    ],
+    "ministry": "Ministry of Textiles",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "bank_passbook",
+      "business_plan",
+      "gst_certificate"
+    ],
+    "application_url": "https://texmin.nic.in/schemes-programmes/technology-upgradation-fund-scheme-tufs",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Obtain Udyam Registration for the textile unit.",
+      "Step 2: Approach an eligible bank or financial institution for a term loan for the purchase of eligible machinery.",
+      "Step 3: Apply for the subsidy under TUFS through the bank, along with the loan application.",
+      "Step 4: The bank sanctions the loan and processes the subsidy claim with the Ministry of Textiles/Nodal Agencies."
+    ],
+    "full_text": "Technology Upgradation Fund Scheme (TUFS) for Textiles. वस्त्रों के लिए प्रौद्योगिकी उन्नयन निधि योजना (TUFS). ಜವಳಿಗಳಿಗಾಗಿ ತಂತ್ರಜ್ಞಾನ ನವೀಕರಣ ನಿಧಿ ಯೋಜನೆ (TUFS). The Technology Upgradation Fund Scheme (TUFS) provides credit-linked subsidies for modernization and technology upgradation of the Indian textile and jute industry. It aims to make the industry more competitive globally by facilitating investment in state-of-the-art machinery and technology. Eligibility: All textile and jute units, including spinning, weaving, processing, garmenting, technical textiles, and other segments of the textile value chain, are eligible if they have a definite plan for technology upgradation and modernization. The investment must be in eligible machinery as specified under the scheme guidelines. Benefits: Capital subsidy on eligible machinery/equipment. The subsidy rates vary across sub-sectors. Under the Amended TUFS (ATUFS), for example, a capital subsidy of 15% is provided for garmenting and technical textiles (with a cap of Rs. 30 Crore per project) and 6% for weaving, processing, and other segments (with a cap of Rs. 20 Crore per project). Target: small_business, startup. Category: msme, business_loan, entrepreneurship. Ministry: Ministry of Textiles. Documents: aadhaar, pan, bank_passbook, business_plan, gst_certificate."
+  },
+  {
+    "scheme_id": "national-sc-st-hub",
+    "title": "National SC-ST Hub Scheme",
+    "title_hi": "राष्ट्रीय एससी-एसटी हब योजना",
+    "title_kn": "ರಾಷ್ಟ್ರೀಯ ಎಸ್‌ಸಿ-ಎಸ್‌ಟಿ ಹಬ್ ಯೋಜನೆ",
+    "description": "The National SC-ST Hub Scheme aims to promote entrepreneurship among Scheduled Caste and Scheduled Tribe populations. It facilitates their participation in public procurement, provides hand-holding support, offers skill development, and helps them leverage various government schemes to foster economic empowerment.",
+    "eligibility_text": "Scheduled Caste (SC) and Scheduled Tribe (ST) entrepreneurs who own a Micro, Small, or Medium Enterprise (MSME) are eligible. The enterprise must be registered with Udyam Registration and have at least 51% ownership by SC/ST entrepreneurs.",
+    "benefits_text": "Provides a comprehensive support ecosystem for SC/ST entrepreneurs, including capacity building, tender training, marketing assistance, credit facilitation, and participation in trade fairs/exhibitions. The scheme also aims to achieve the Public Procurement Policy's target of 4% procurement from SC/ST Micro & Small Enterprises (MSEs). It focuses on support services and facilitation rather than direct financial grants to individuals.",
+    "funding_amount": null,
+    "category": [
+      "sc_st",
+      "entrepreneurship",
+      "msme",
+      "business_loan",
+      "skill_development"
+    ],
+    "target_group": [
+      "sc_st",
+      "small_business",
+      "startup",
+      "youth",
+      "women"
+    ],
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": "all",
+    "min_age": null,
+    "max_age": null,
+    "max_income": null,
+    "documents_required": [
+      "aadhaar",
+      "pan",
+      "caste_certificate",
+      "bank_passbook",
+      "gst_certificate"
+    ],
+    "application_url": "https://nssh.nsic.co.in/",
+    "deadline": null,
+    "application_steps": [
+      "Step 1: Register on the National SC-ST Hub portal.",
+      "Step 2: Upload necessary documents, including Udyam Registration certificate and valid Caste Certificate.",
+      "Step 3: Participate in capacity building programs, vendor development programs, and access other support services provided by the Hub.",
+      "Step 4: Avail benefits like marketing support, credit facilitation, and public procurement opportunities."
+    ],
+    "full_text": "National SC-ST Hub Scheme. राष्ट्रीय एससी-एसटी हब योजना. ರಾಷ್ಟ್ರೀಯ ಎಸ್‌ಸಿ-ಎಸ್‌ಟಿ ಹಬ್ ಯೋಜನೆ. The National SC-ST Hub Scheme aims to promote entrepreneurship among Scheduled Caste and Scheduled Tribe populations. It facilitates their participation in public procurement, provides hand-holding support, offers skill development, and helps them leverage various government schemes to foster economic empowerment. Eligibility: Scheduled Caste (SC) and Scheduled Tribe (ST) entrepreneurs who own a Micro, Small, or Medium Enterprise (MSME) are eligible. The enterprise must be registered with Udyam Registration and have at least 51% ownership by SC/ST entrepreneurs. Benefits: Provides a comprehensive support ecosystem for SC/ST entrepreneurs, including capacity building, tender training, marketing assistance, credit facilitation, and participation in trade fairs/exhibitions. The scheme also aims to achieve the Public Procurement Policy's target of 4% procurement from SC/ST Micro & Small Enterprises (MSEs). It focuses on support services and facilitation rather than direct financial grants to individuals. Target: sc_st, small_business, startup, youth, women. Category: sc_st, entrepreneurship, msme, business_loan, skill_development. Ministry: Ministry of Micro, Small and Medium Enterprises. Documents: aadhaar, pan, caste_certificate, bank_passbook, gst_certificate."
+  }
+]
