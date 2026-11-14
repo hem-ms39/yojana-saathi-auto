@@ -1,0 +1,59 @@
+[
+  {
+    "id": "demo-priya",
+    "name": "Priya Sharma",
+    "transcript": "Main 22 saal ki hoon, Bangalore mein tailoring ka business shuru karna chahti hoon",
+    "language": "hi",
+    "expected_profile": {
+      "age": 22, "gender": "F", "state": "Karnataka",
+      "district": "Bangalore Urban", "occupation": "aspiring_entrepreneur",
+      "business_intent": "tailoring", "existing_business": false
+    },
+    "expected_schemes": ["pm-mudra-shishu", "pmegp", "standup-india"]
+  },
+  {
+    "id": "demo-ramesh",
+    "name": "Ramesh Kumar",
+    "transcript": "I am a 45 year old farmer in Uttar Pradesh, I need crop insurance",
+    "language": "en",
+    "expected_profile": {
+      "age": 45, "gender": "M", "state": "Uttar Pradesh",
+      "occupation": "farmer"
+    },
+    "expected_schemes": ["pm-fasal-bima", "pm-kisan", "kcc"]
+  },
+  {
+    "id": "demo-ananya",
+    "name": "Ananya R",
+    "transcript": "Naanu 19 varsha, Mysore-alli engineering odi-thiddene, scholarship beku",
+    "language": "kn",
+    "expected_profile": {
+      "age": 19, "gender": "F", "state": "Karnataka",
+      "district": "Mysore", "education": "undergraduate",
+      "business_intent": null
+    },
+    "expected_schemes": ["nsp-post-matric", "pragati-scholarship"]
+  },
+  {
+    "id": "demo-mohammed",
+    "name": "Mohammed Irfan",
+    "transcript": "Meri umar 30 saal hai, Delhi mein food delivery ka startup karna hai, minority category se hoon",
+    "language": "hi",
+    "expected_profile": {
+      "age": 30, "gender": "M", "state": "Delhi",
+      "business_intent": "food delivery startup", "minority": true
+    },
+    "expected_schemes": ["pm-mudra-kishore", "startup-india", "nmdfc-loan"]
+  },
+  {
+    "id": "demo-lakshmi",
+    "name": "Lakshmi Devi",
+    "transcript": "Meri beti ke liye scholarship chahiye, 10th pass hai, ghar mein koi government job nahi hai, SC category",
+    "language": "hi",
+    "expected_profile": {
+      "age": null, "gender": "F", "caste_category": "SC",
+      "education": "10th pass"
+    },
+    "expected_schemes": ["nsp-post-matric-sc", "pre-matric-scholarship"]
+  }
+]
