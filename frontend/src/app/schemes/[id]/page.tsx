@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import { useParams, useSearchParams } from "next/navigation";
 import {
   getScheme,
@@ -298,7 +299,7 @@ export default function SchemeDetailPage() {
     return (
       <div className="max-w-3xl mx-auto px-4 py-12 text-center">
         <p className="text-red-600 mb-4">{fetchError ?? "Scheme not found"}</p>
-        <a href="/" className="text-blue-600 hover:underline text-sm">← Back to search</a>
+        <Link href="/" className="text-blue-600 hover:underline text-sm">← Back to search</Link>
       </div>
     );
   }
@@ -450,12 +451,12 @@ export default function SchemeDetailPage() {
           )}
         </div>
 
-        <a
+        <Link
           href="/"
           className="inline-block px-6 py-2.5 rounded-xl bg-blue-600 text-white font-medium hover:bg-blue-700 transition-colors"
         >
           Search more schemes
-        </a>
+        </Link>
       </div>
     );
   }

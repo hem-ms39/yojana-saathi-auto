@@ -32,7 +32,7 @@ export default function AuthCallbackPage() {
       <div className="text-center space-y-3">
         <div className="text-4xl animate-pulse">🇮🇳</div>
         <p className="text-slate-600 font-medium">Signing you in…</p>
-        <p className="text-slate-400 text-sm">You'll be redirected shortly</p>
+        <p className="text-slate-400 text-sm">You&apos;ll be redirected shortly</p>
       </div>
     </div>
   );
