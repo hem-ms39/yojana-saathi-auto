@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { useAuth } from "../../contexts/auth-context";
 import { AuthModal } from "../../components/auth-modal";
 import { getSupabase } from "../../lib/supabase";
@@ -116,12 +117,12 @@ export default function ProfilePage() {
           <div className="bg-white rounded-2xl border border-slate-200 p-10 text-center">
             <div className="text-4xl mb-3">📭</div>
             <p className="text-slate-500 text-sm">No applications yet.</p>
-            <a
+            <Link
               href="/"
               className="inline-block mt-4 text-sm text-blue-600 hover:underline"
             >
               Find schemes to apply for →
-            </a>
+            </Link>
           </div>
         ) : (
           <div className="space-y-3">

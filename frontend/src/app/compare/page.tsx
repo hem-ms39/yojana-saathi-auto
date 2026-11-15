@@ -85,7 +85,7 @@ function CompareContent() {
         <div className="text-5xl">⚖️</div>
         <h1 className="text-2xl font-bold text-slate-900">Select schemes to compare</h1>
         <p className="text-slate-500 text-sm">
-          Go to search results, check 2–3 schemes, then click "Compare".
+          Go to search results, check 2–3 schemes, then click &quot;Compare&quot;.
         </p>
         <Link href="/" className="inline-block mt-2 px-5 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors">
           ← Back to Search

@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState, Suspense } from "react";
+import Link from "next/link";
 import { useSearchParams, useRouter } from "next/navigation";
 import { AgentPanel } from "../../components/agent-panel";
 import { SchemeCard } from "../../components/scheme-card";
@@ -80,9 +81,9 @@ function ResultsContent() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
       {/* Query header */}
       <div className="mb-6">
-        <a href="/" className="text-sm text-blue-600 hover:underline mb-2 inline-block">
+        <Link href="/" className="text-sm text-blue-600 hover:underline mb-2 inline-block">
           ← New search
-        </a>
+        </Link>
         <h2 className="text-lg font-semibold text-slate-800">
           Results for: <span className="text-slate-600 font-normal">&ldquo;{query}&rdquo;</span>
         </h2>
@@ -130,9 +131,9 @@ function ResultsContent() {
             <div className="text-center py-16 text-slate-400">
               <p className="text-4xl mb-3">🔍</p>
               <p>No schemes found for your query.</p>
-              <a href="/" className="text-blue-600 text-sm hover:underline mt-2 block">
+              <Link href="/" className="text-blue-600 text-sm hover:underline mt-2 block">
                 Try a different query
-              </a>
+              </Link>
             </div>
           )}
 
