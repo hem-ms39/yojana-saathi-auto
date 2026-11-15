@@ -67,7 +67,7 @@ class M3Service:
             )
             template = form_filler.get_form_template(scheme_id)
             if not template:
-                raise RuntimeError(f"No form template for scheme: {scheme_id}")
+                raise RuntimeError(f"No form template for scheme: {scheme_id}") from None
             return template
 
     async def ocr_extract_and_fill(
@@ -100,7 +100,7 @@ class M3Service:
 
             ocr_result = ocr_agent.extract_from_bytes(content, content_type, doc_type)
             if ocr_result.get("status") == "error":
-                raise RuntimeError(ocr_result.get("error", "M3 OCR failed"))
+                raise RuntimeError(ocr_result.get("error", "M3 OCR failed")) from None
 
             user_profile = ocr_agent.map_to_user_profile(ocr_result)
             form = form_filler.generate_prefilled_form(scheme_id, user_profile)
