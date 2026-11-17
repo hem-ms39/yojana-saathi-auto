@@ -1,5 +1,6 @@
 # Continuous Integration — runs on every push and every pull request.
-# Each job is owned by one team member (see TEAM_PLAN.md).
+# Each job is owned by one team member (see TEAM_PLAN.md); a PR can only be
+# merged into main when ALL jobs are green (enforced by branch protection).
 name: CI
 
 on:
@@ -17,6 +18,33 @@ permissions:
   contents: read
 
 jobs:
+  # ── Member 1 ─────────────────────────────────────────────────────────────
+  backend:
+    name: Backend · lint + tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements*.txt
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
+      - name: Lint (ruff)
+        run: ruff check .
+      - name: Unit tests (pytest + coverage)
+        run: pytest --cov=. --cov-report=term-missing --junitxml=pytest-report.xml
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: backend-test-report
+          path: backend/pytest-report.xml
+
   # ── Member 4 ─────────────────────────────────────────────────────────────
   ocr-service:
     name: OCR service · tests
