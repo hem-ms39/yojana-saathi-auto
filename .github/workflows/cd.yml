@@ -1,0 +1,137 @@
+# Continuous Delivery / Deployment — runs only after CI passes on main.
+#   1. Builds & pushes versioned Docker images to GitHub Container Registry (GHCR)
+#   2. Triggers deployments (Render for backend + OCR, Vercel for frontend)
+#   3. Smoke-tests the live backend
+# Deploy steps are skipped automatically if their secrets are not configured,
+# so the pipeline is green even before hosting is set up.
+name: CD
+
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: cd-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  publish:
+    name: Publish images to GHCR
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ steps.meta.outputs.tag }}
+      owner: ${{ steps.meta.outputs.owner }}
+    strategy:
+      matrix:
+        include:
+          - name: backend
+            context: .
+            file: backend/Dockerfile
+          - name: ocr
+            context: m3_workspace
+            file: m3_workspace/Dockerfile
+          - name: frontend
+            context: frontend
+            file: frontend/Dockerfile
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - id: meta
+        run: |
+          echo "owner=${GITHUB_REPOSITORY_OWNER,,}" >> "$GITHUB_OUTPUT"
+          sha="${{ github.event.workflow_run.head_sha || github.sha }}"
+          echo "tag=${sha::7}" >> "$GITHUB_OUTPUT"
+      - uses: docker/setup-buildx-action@v3
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/build-push-action@v6
+        with:
+          context: ${{ matrix.context }}
+          file: ${{ matrix.file }}
+          push: true
+          build-args: |
+            NEXT_PUBLIC_BACKEND_URL=${{ vars.BACKEND_PUBLIC_URL || 'http://localhost:8000' }}
+            NEXT_PUBLIC_SUPABASE_URL=${{ vars.SUPABASE_URL || 'https://placeholder.supabase.co' }}
+            NEXT_PUBLIC_SUPABASE_ANON_KEY=${{ secrets.SUPABASE_ANON_KEY || 'placeholder' }}
+          tags: |
+            ghcr.io/${{ steps.meta.outputs.owner }}/yojana-saathi-${{ matrix.name }}:${{ steps.meta.outputs.tag }}
+            ghcr.io/${{ steps.meta.outputs.owner }}/yojana-saathi-${{ matrix.name }}:latest
+          cache-from: type=gha,scope=${{ matrix.name }}
+          cache-to: type=gha,mode=max,scope=${{ matrix.name }}
+
+  deploy:
+    name: Deploy
+    needs: publish
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: ${{ vars.FRONTEND_PUBLIC_URL }}
+    env:
+      IMAGE_BASE: ghcr.io/${{ needs.publish.outputs.owner }}/yojana-saathi
+      TAG: ${{ needs.publish.outputs.tag }}
+      RENDER_BACKEND_HOOK: ${{ secrets.RENDER_BACKEND_DEPLOY_HOOK }}
+      RENDER_OCR_HOOK: ${{ secrets.RENDER_OCR_DEPLOY_HOOK }}
+      VERCEL_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+    steps:
+      - name: Deploy backend (Render)
+        if: env.RENDER_BACKEND_HOOK != ''
+        run: curl -fsS -X POST "$RENDER_BACKEND_HOOK&imgURL=${IMAGE_BASE}-backend:${TAG}"
+      - name: Deploy OCR service (Render)
+        if: env.RENDER_OCR_HOOK != ''
+        run: curl -fsS -X POST "$RENDER_OCR_HOOK&imgURL=${IMAGE_BASE}-ocr:${TAG}"
+      - name: Deploy frontend (Vercel)
+        if: env.VERCEL_HOOK != ''
+        run: curl -fsS -X POST "$VERCEL_HOOK"
+      - name: Deployment summary
+        run: |
+          {
+            echo "## 🚀 Release ${TAG}"
+            echo "| Service | Image |"
+            echo "|---|---|"
+            for s in backend ocr frontend; do echo "| $s | \`${IMAGE_BASE}-$s:${TAG}\` |"; done
+            [ -z "$RENDER_BACKEND_HOOK" ] && echo "> Render hook not configured — images published only."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  smoke-test:
+    name: Post-deploy smoke test
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: vars.BACKEND_PUBLIC_URL != ''
+    steps:
+      - name: Wait for live backend /health
+        run: |
+          for i in $(seq 1 40); do
+            if curl -fsS "${{ vars.BACKEND_PUBLIC_URL }}/health" | grep -q '"status":"ok"'; then
+              echo "Backend is live ✅"; exit 0
+            fi
+            sleep 15
+          done
+          echo "Backend did not become healthy" && exit 1
+
+  release:
+    name: Tag release
+    needs: publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - name: Create git tag + GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="v1.0.${{ github.run_number }}"
+          gh release create "$TAG" --target "${{ github.event.workflow_run.head_sha || github.sha }}" \
+            --title "$TAG" --generate-notes
