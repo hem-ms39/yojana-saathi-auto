@@ -1,5 +1,10 @@
 # 🇮🇳 Yojana Saathi — AI-Powered Government Scheme Navigator
 
+<!-- Replace OWNER/REPO with your GitHub repo path -->
+[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CD](https://github.com/OWNER/REPO/actions/workflows/cd.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/cd.yml)
+
+
 > **Hackathon Project** — Helping Indian citizens discover, understand, and apply for government schemes they qualify for, using a multi-agent AI pipeline.
 
 ---
@@ -268,3 +273,68 @@ Yojana_Sathi/
 ## Team
 
 Built for the hackathon by **Team DeepStation / goldkrs**.
+
+
+---
+
+## DevOps: CI/CD Pipeline
+
+```
+ feature branch ──push──▶  CI (every push + PR)                         main ──▶ CD (only if CI green)
+                           ├─ Backend   : ruff lint → pytest + coverage           ├─ Build & push 3 images → GHCR
+                           ├─ OCR svc   : pytest                                  │   (tag = commit SHA + latest)
+                           ├─ Frontend  : next lint → tsc → next build            ├─ Deploy backend + OCR → Render
+                           ├─ Security  : gitleaks secret scan                    ├─ Deploy frontend      → Vercel
+                           └─ Docker    : build images → run → smoke test         ├─ Smoke test live /health
+                                                                                  └─ Tag GitHub release v1.0.N
+ PR → 1 teammate review + all CI checks green → merge to main
+```
+
+| Workflow | File | Trigger |
+|---|---|---|
+| CI | `.github/workflows/ci.yml` | every push, every PR to `main` |
+| CD | `.github/workflows/cd.yml` | after CI succeeds on `main` (or manual run) |
+
+### Run the full stack locally with Docker
+
+```bash
+cp .env.example .env        # keys optional — app falls back to seed data / rule-based extraction
+docker compose up --build
+# Frontend http://localhost:3000 · Backend http://localhost:8000/docs · OCR http://localhost:8001/docs
+```
+
+### Run the checks locally (same as CI)
+
+```bash
+# Backend
+cd backend && pip install -r requirements-dev.txt && ruff check . && pytest
+# OCR service
+cd m3_workspace && pip install -r requirements.txt pytest && pytest
+# Frontend
+cd frontend && npm ci && npx next lint && npx tsc --noEmit && npm run build
+```
+
+### Deployment configuration (GitHub → Settings → Secrets and variables → Actions)
+
+| Name | Type | Purpose |
+|---|---|---|
+| `RENDER_BACKEND_DEPLOY_HOOK` | secret | Render deploy hook for the backend service |
+| `RENDER_OCR_DEPLOY_HOOK` | secret | Render deploy hook for the OCR service |
+| `VERCEL_DEPLOY_HOOK` | secret | Vercel deploy hook for the frontend |
+| `SUPABASE_ANON_KEY` | secret | Baked into the frontend image at build time |
+| `BACKEND_PUBLIC_URL` | variable | Live backend URL (enables post-deploy smoke test) |
+| `FRONTEND_PUBLIC_URL` | variable | Live frontend URL (shown on the deployment) |
+| `SUPABASE_URL` | variable | Supabase project URL for the frontend build |
+
+Deploy steps are skipped if their secret is missing, so images are always published to GHCR even before hosting is set up.
+
+## Team
+
+| Member | Module | CI/CD responsibility |
+|---|---|---|
+| Member 1 | Backend core & AI agents (`backend/agents`, `models`, core routers, tests) | Backend lint/test job, backend Dockerfile |
+| Member 2 | Services, data & integrations (`backend/services`, `scripts`, `data`) | Secret scan, Docker build + smoke test job |
+| Member 3 | Frontend (`frontend/`) | Frontend lint/typecheck/build job, frontend Dockerfile |
+| Member 4 | OCR service & DevOps (`m3_workspace/`, `.github/`) | OCR test job, docker-compose, CD workflow |
+
+See [TEAM_PLAN.md](TEAM_PLAN.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
