@@ -450,3 +450,30 @@ Orchestrated by: Copilot CLI
 - [Groq API](https://console.groq.com)
 - [Qdrant Vector DB](https://qdrant.tech/)
 - [Pydantic](https://docs.pydantic.dev)
+
+
+---
+
+## Testing
+
+The test suite runs fully offline — no API keys, Supabase or Qdrant needed
+(services fall back to seed data and rule-based extraction).
+
+```bash
+cd backend
+pip install -r requirements-dev.txt
+ruff check .          # lint (same as CI)
+pytest                # 13 tests: health, schemas, eligibility, profile extraction, schemes API
+pytest --cov=.        # with coverage
+```
+
+## Docker
+
+```bash
+# from the repository root
+docker build -f backend/Dockerfile -t yojana-saathi-backend .
+docker run -p 8000:10000 --env-file .env yojana-saathi-backend
+```
+
+The image runs as a non-root user, reads `PORT` from the environment (Render sets it), and has a
+`HEALTHCHECK` on `/health`.
