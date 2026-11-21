@@ -4,6 +4,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
+from backend.config import settings
 from backend.routers import (
     apply,
     auth,
@@ -19,16 +20,20 @@ from backend.routers import (
 
 app = FastAPI(title="Yojana Saathi API", version="0.1.0")
 
+_local_origins = [
+    "http://localhost:3000",
+    "http://localhost:3001",
+    "http://localhost:3002",
+    "http://127.0.0.1:3000",
+    "http://127.0.0.1:3001",
+    "http://127.0.0.1:3002",
+]
+# FRONTEND_URL lets the deployed frontend (e.g. Vercel) call the deployed backend.
+_allowed_origins = sorted({*_local_origins, settings.frontend_url.rstrip("/")})
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",
-        "http://localhost:3001",
-        "http://localhost:3002",
-        "http://127.0.0.1:3000",
-        "http://127.0.0.1:3001",
-        "http://127.0.0.1:3002",
-    ],
+    allow_origins=_allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
