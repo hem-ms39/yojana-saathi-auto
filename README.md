@@ -160,7 +160,7 @@ M3_API_URL=http://localhost:8001
 
 #### Supabase (one-time)
 
-1. **SQL Editor → New query** → paste all of [`backend/supabase/schema.sql`](backend/supabase/schema.sql) → **Run**. This creates the `users`, `schemes` and `applications` tables.
+1. **SQL Editor → New query** → paste all of [`backend/db/schema.sql`](backend/db/schema.sql) → **Run**. This creates the `users`, `schemes` and `applications` tables.
 2. **Project Settings → API Keys → Legacy API keys** → copy the `anon` and `service_role` keys into `.env`. Use the legacy JWT keys: the pinned `supabase` Python client may reject the newer `sb_secret_...` keys.
 3. **Authentication → URL Configuration**
    - Site URL: `http://localhost:3000`
@@ -408,7 +408,7 @@ CI needs no secrets. CD skips each deploy step whose secret is missing, so image
 | `model ... does not exist` from Groq | Groq retired the model. Pick one from the [Groq models list](https://console.groq.com/docs/models) and set `GROQ_MODEL` in `.env`. |
 | Gemini `API key not valid` | Create a new key at https://aistudio.google.com/apikey. It should start with `AIza`. |
 | Supabase `PGRST125 Invalid path` | `SUPABASE_URL` ends in `/rest/v1/`. Use only `https://xxxx.supabase.co`. |
-| Supabase `Could not find the table` / health shows `supabase: not_configured_or_unreachable` | Run `backend/supabase/schema.sql` in the SQL Editor. |
+| Supabase `Could not find the table` / health shows `supabase: not_configured_or_unreachable` | Run `backend/db/schema.sql` in the SQL Editor. |
 | Chat error `Collection 'schemes' doesn't exist` | Run `python scripts/seed_qdrant.py`. |
 | `ModuleNotFoundError: No module named 'backend'` | Start the backend from the repo root, and the OCR service from inside `m3_workspace`. |
 | Frontend loads but every search fails (404) | `NEXT_PUBLIC_BACKEND_URL` must end in `/v1`. |
@@ -452,7 +452,7 @@ yojana-saathi-auto/
 │   ├── models/            # Pydantic schemas
 │   ├── routers/           # chat, explain, scheme_chat, compare, apply, forms, voice, auth, health
 │   ├── services/          # llm (Groq), embedding (Gemini), qdrant, supabase, whatsapp (Meta), m3 (OCR client)
-│   ├── supabase/schema.sql      # database tables — run once in Supabase
+│   ├── db/schema.sql            # Supabase database tables — run once in the SQL Editor
 │   ├── tests/
 │   ├── Dockerfile
 │   ├── requirements.txt / requirements-dev.txt
