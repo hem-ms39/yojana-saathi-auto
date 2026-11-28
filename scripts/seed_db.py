@@ -1,9 +1,13 @@
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
-from backend.services.supabase_service import SupabaseService
+# Make the repo root importable so this runs from any folder without PYTHONPATH.
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from backend.services.supabase_service import SupabaseService  # noqa: E402
 
 
 def seed_schemes() -> int:

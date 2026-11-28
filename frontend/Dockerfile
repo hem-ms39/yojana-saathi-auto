@@ -7,7 +7,7 @@ RUN npm ci --no-audit --no-fund
 # ---- build ----
 FROM node:22-alpine AS build
 WORKDIR /app
-ARG NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+ARG NEXT_PUBLIC_BACKEND_URL=http://localhost:8000/v1
 ARG NEXT_PUBLIC_SUPABASE_URL=https://placeholder.supabase.co
 ARG NEXT_PUBLIC_SUPABASE_ANON_KEY=placeholder
 ENV NEXT_PUBLIC_BACKEND_URL=$NEXT_PUBLIC_BACKEND_URL \

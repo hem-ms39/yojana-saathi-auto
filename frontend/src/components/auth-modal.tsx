@@ -75,7 +75,7 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
       setLoading(false);
       if (error) {
         if (error.toLowerCase().includes("rate limit")) {
-          setError("Email rate limit reached — use SMS OTP instead ↓");
+          setError("Email rate limit reached — use WhatsApp OTP instead ↓");
         } else {
           setError(error);
         }
@@ -133,7 +133,7 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
           {reason && <p className="text-blue-100 text-sm mt-0.5">Sign in {reason}</p>}
         </div>
 
-        {/* Mode tabs — Email primary, SMS fallback */}
+        {/* Mode tabs — Email primary, WhatsApp fallback */}
         <div className="flex border-b border-slate-100">
           <button
             onClick={() => { setMode("email"); setStep("input"); setOtp(""); setError(null); }}
@@ -153,7 +153,7 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
                 : "text-slate-400 hover:text-slate-600"
             }`}
           >
-            📱 SMS OTP
+            💬 WhatsApp OTP
           </button>
         </div>
 
@@ -198,7 +198,7 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
                     />
                   </div>
                   <p className="text-xs text-slate-400 mt-1.5">
-                    OTP will be sent via SMS to your mobile.
+                    OTP will be sent to this number on WhatsApp.
                   </p>
                 </div>
               )}
@@ -206,12 +206,12 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
               {error && (
                 <div className="text-sm text-red-600 bg-red-50 px-3 py-2 rounded-lg">
                   {error}
-                  {error.includes("SMS") && (
+                  {mode === "email" && error.toLowerCase().includes("rate limit") && (
                     <button
                       onClick={() => { setMode("sms"); setError(null); }}
                       className="block mt-1 text-blue-600 font-medium underline text-xs"
                     >
-                      Switch to SMS OTP →
+                      Switch to WhatsApp OTP →
                     </button>
                   )}
                 </div>
@@ -255,7 +255,7 @@ export function AuthModal({ open, onClose, onSuccess, reason }: AuthModalProps) 
               <p className="text-xs text-slate-400">
                 {mode === "email"
                   ? "Check spam if not received. Enter all digits exactly."
-                  : "Enter the SMS code sent to your mobile number."}
+                  : "Enter the code sent to your WhatsApp."}
               </p>
 
               {error && (

@@ -5,7 +5,7 @@
 M4 owns infrastructure, communications, and demo readiness:
 
 - Supabase project and schema bootstrap
-- Twilio WhatsApp integration
+- WhatsApp integration (Meta WhatsApp Cloud API)
 - FastAPI routers and SSE endpoint
 - Deployment on Render and Vercel
 - Environment variables and final smoke checks
@@ -15,7 +15,7 @@ M4 owns infrastructure, communications, and demo readiness:
 
 - `GET /health` returns `200`
 - `POST /v1/chat` streams SSE events
-- `POST /v1/apply` can trigger a Twilio WhatsApp message
+- `POST /v1/apply` can trigger a WhatsApp message
 - `.env` and `frontend/.env.local` exist with valid secrets
 
 ## Local Start

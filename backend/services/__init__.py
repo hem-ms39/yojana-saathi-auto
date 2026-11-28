@@ -3,7 +3,7 @@ from .llm_service import LLMService
 from .m3_service import M3Service
 from .qdrant_service import QdrantService
 from .supabase_service import SupabaseService
-from .twilio_service import TwilioService
+from .whatsapp_service import WhatsAppService
 
 __all__ = [
     "EmbeddingService",
@@ -11,5 +11,5 @@ __all__ = [
     "M3Service",
     "QdrantService",
     "SupabaseService",
-    "TwilioService",
+    "WhatsAppService",
 ]
