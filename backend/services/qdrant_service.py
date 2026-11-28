@@ -64,7 +64,9 @@ class QdrantService:
         if settings.collection_name not in existing:
             self._client.create_collection(
                 collection_name=settings.collection_name,
-                vectors_config=VectorParams(size=settings.embedding_size, distance=Distance.COSINE),
+                vectors_config=VectorParams(
+                    size=self.embedding_service.size, distance=Distance.COSINE
+                ),
             )
 
     def _sync_embedding_size_from_remote(self) -> None:

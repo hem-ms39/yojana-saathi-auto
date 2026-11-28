@@ -5,7 +5,7 @@
 - Runtime: Docker or Python 3.12
 - Start command: `python -m uvicorn backend.main:app --host 0.0.0.0 --port 10000`
 - Health endpoint: `/health`
-- Required env vars: Supabase, Twilio, LLM, Qdrant, `FRONTEND_URL`, `BACKEND_URL`
+- Required env vars: Supabase, WhatsApp (Meta Cloud API), LLM, Qdrant, `FRONTEND_URL`, `BACKEND_URL`
 
 ## Vercel Frontend
 

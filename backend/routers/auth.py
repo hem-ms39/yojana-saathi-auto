@@ -1,11 +1,12 @@
 """
-WhatsApp OTP authentication endpoints.
-Fallback for when email OTP rate limit is exceeded.
+WhatsApp OTP authentication endpoints (Meta WhatsApp Cloud API).
+Alternative to Supabase email OTP.
 """
 from __future__ import annotations
 
-import random
+import logging
 import re
+import secrets
 import string
 import time
 from typing import Any
@@ -14,8 +15,28 @@ from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
 from backend.config import settings
+from backend.services.whatsapp_service import WhatsAppError, WhatsAppService
+
+logger = logging.getLogger(__name__)
 
 router = APIRouter(prefix="/v1/auth", tags=["auth"])
+
+# User-facing messages for common WhatsApp Cloud API error codes
+# (https://developers.facebook.com/docs/whatsapp/cloud-api/support/error-codes).
+_SEND_DEFAULT_ERROR = "Could not send the WhatsApp code right now. Please try again or use email."
+_SEND_ERRORS: dict[int, str] = {
+    # Test numbers can only message recipients added under WhatsApp → API Setup.
+    131030: "This number isn't on the app's WhatsApp test recipient list yet. "
+            "Please use email, or ask the team to add your number.",
+    # Free text outside the 24-hour window and no OTP template configured.
+    131047: "WhatsApp needs you to message us first. Send any message to our WhatsApp "
+            "number from this phone, then tap Send OTP again.",
+    131026: "Couldn't deliver to this number. Check that it uses WhatsApp.",
+    132001: "WhatsApp OTP isn't set up correctly on the server (template not found). "
+            "Please use email for now.",
+    190: "WhatsApp OTP isn't available right now (server access token expired). "
+         "Please use email for now.",
+}
 
 # In-memory OTP store: phone -> {otp, expires_at}
 # For production, use Redis. Fine for hackathon demo.
@@ -44,7 +65,7 @@ def _normalize_phone(phone: str) -> str:
 
 
 def _generate_otp(length: int = 6) -> str:
-    return "".join(random.choices(string.digits, k=length))
+    return "".join(secrets.choice(string.digits) for _ in range(length))
 
 
 @router.post("/whatsapp-otp/send")
@@ -66,25 +87,22 @@ async def send_whatsapp_otp(req: SendOtpRequest) -> dict:
         "send_count": send_count,
     }
 
-    # Send via Twilio WhatsApp
-    if not (settings.twilio_account_sid and settings.twilio_auth_token and settings.twilio_whatsapp_from):
-        raise HTTPException(503, "WhatsApp notifications not configured")
+    whatsapp = WhatsAppService()
+    if not whatsapp.configured:
+        _otp_store.pop(phone, None)
+        raise HTTPException(503, "WhatsApp sign-in is not configured on this server.")
 
     try:
-        from twilio.rest import Client
-        client = Client(settings.twilio_account_sid, settings.twilio_auth_token)
-        wa_to = f"whatsapp:{phone}"
-        client.messages.create(
-            from_=settings.twilio_whatsapp_from,
-            to=wa_to,
-            body=(
-                f"🇮🇳 *Yojana Saathi* — Your sign-in code is:\n\n"
-                f"*{otp}*\n\n"
-                f"Valid for 10 minutes. Do not share this code."
-            ),
-        )
+        await whatsapp.send_otp(phone, otp)
+    except WhatsAppError as exc:
+        # Full details go to the server log only.
+        logger.warning("WhatsApp OTP send failed (code %s): %s", exc.code, exc.message)
+        _otp_store.pop(phone, None)
+        raise HTTPException(502, _SEND_ERRORS.get(exc.code, _SEND_DEFAULT_ERROR)) from exc
     except Exception as exc:
-        raise HTTPException(500, f"Failed to send WhatsApp OTP: {exc}") from exc
+        logger.exception("WhatsApp OTP send failed")
+        _otp_store.pop(phone, None)
+        raise HTTPException(502, _SEND_DEFAULT_ERROR) from exc
 
     return {"sent": True, "phone": phone}
 
@@ -133,13 +151,13 @@ async def verify_whatsapp_otp(req: VerifyOtpRequest) -> dict:
             "email": fake_email,
         })
 
-        props = link_resp.properties
+        # generate_link does not return a session. It returns a one-time hashed
+        # token; the browser exchanges it for a session with
+        # supabase.auth.verifyOtp({ token_hash, type: "magiclink" }).
         return {
             "verified": True,
             "phone": phone,
-            "access_token": props.access_token,
-            "refresh_token": props.refresh_token,
-            "expires_in": props.expires_in,
+            "token_hash": link_resp.properties.hashed_token,
         }
 
     except HTTPException:

@@ -2,7 +2,7 @@ from fastapi import APIRouter
 
 from backend.services.m3_service import M3Service
 from backend.services.supabase_service import SupabaseService
-from backend.services.twilio_service import TwilioService
+from backend.services.whatsapp_service import WhatsAppService
 
 router = APIRouter()
 
@@ -10,7 +10,7 @@ router = APIRouter()
 @router.get("/health")
 async def healthcheck() -> dict[str, object]:
     supabase = SupabaseService()
-    twilio = TwilioService()
+    whatsapp = WhatsAppService()
     m3 = M3Service()
 
     db_ok = False
@@ -26,7 +26,7 @@ async def healthcheck() -> dict[str, object]:
         "status": "ok",
         "services": {
             "supabase": "ok" if db_ok else "not_configured_or_unreachable",
-            "twilio": "configured" if twilio.client else "not_configured",
+            "whatsapp": "configured" if whatsapp.configured else "not_configured",
             "m3_api": "ok" if m3_ok else "unreachable",
         },
     }

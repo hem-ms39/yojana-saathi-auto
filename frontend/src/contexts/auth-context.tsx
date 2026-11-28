@@ -23,6 +23,28 @@ interface AuthContextType {
 
 const AuthContext = createContext<AuthContextType | null>(null);
 
+const BACKEND_URL =
+  process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:8000/v1";
+
+async function postBackend<T = unknown>(path: string, body: unknown): Promise<T> {
+  let res: Response;
+  try {
+    res = await fetch(`${BACKEND_URL}${path}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+  } catch {
+    throw new Error("Cannot reach the server. Is the backend running?");
+  }
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    const detail = (data as { detail?: unknown }).detail;
+    throw new Error(typeof detail === "string" ? detail : `Request failed (${res.status})`);
+  }
+  return data as T;
+}
+
 export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
   const [session, setSession] = useState<Session | null>(null);
@@ -47,22 +69,28 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     return () => subscription.unsubscribe();
   }, [supabase]);
 
-  // Phone SMS OTP (via Supabase + Twilio SMS)
+  // Phone OTP via WhatsApp (backend → Meta WhatsApp Cloud API). The backend checks the code and
+  // returns a one-time Supabase token_hash, which we exchange for a session.
   const signInWithPhone = useCallback(async (phone: string) => {
-    const { error } = await supabase.auth.signInWithOtp({
-      phone,
-      options: { channel: "sms" },
-    });
-    return { error: error?.message ?? null };
-  }, [supabase]);
+    try {
+      await postBackend("/auth/whatsapp-otp/send", { phone });
+      return { error: null };
+    } catch (e) {
+      return { error: (e as Error).message };
+    }
+  }, []);
 
   const verifyPhoneOtp = useCallback(async (phone: string, token: string) => {
-    const { error } = await supabase.auth.verifyOtp({
-      phone,
-      token,
-      type: "sms",
-    });
-    return { error: error?.message ?? null };
+    try {
+      const { token_hash } = await postBackend<{ token_hash: string }>(
+        "/auth/whatsapp-otp/verify",
+        { phone, otp: token },
+      );
+      const { error } = await supabase.auth.verifyOtp({ token_hash, type: "magiclink" });
+      return { error: error?.message ?? null };
+    } catch (e) {
+      return { error: (e as Error).message };
+    }
   }, [supabase]);
 
   // Email OTP (fallback)

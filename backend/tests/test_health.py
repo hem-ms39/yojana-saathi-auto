@@ -3,8 +3,8 @@ def test_health_returns_ok_without_external_services(client):
     assert res.status_code == 200
     body = res.json()
     assert body["status"] == "ok"
-    assert set(body["services"]) == {"supabase", "twilio", "m3_api"}
-    assert body["services"]["twilio"] == "not_configured"
+    assert set(body["services"]) == {"supabase", "whatsapp", "m3_api"}
+    assert body["services"]["whatsapp"] == "not_configured"
 
 
 def test_openapi_lists_v1_routes(client):

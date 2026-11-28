@@ -7,7 +7,7 @@ from backend.models.schemas import ApplicationRequest, ApplicationResponse
 from backend.services.m3_service import M3Service
 from backend.services.portal_service import attempt_udyam_submit
 from backend.services.supabase_service import SupabaseService
-from backend.services.twilio_service import TwilioService
+from backend.services.whatsapp_service import WhatsAppService
 
 router = APIRouter(tags=["apply"])
 
@@ -23,7 +23,7 @@ class PortalAttemptRequest(BaseModel):
 async def apply_for_scheme(request: ApplicationRequest) -> ApplicationResponse:
     application_id = f"YS-{uuid.uuid4().hex[:8].upper()}"
     supabase = SupabaseService()
-    twilio = TwilioService()
+    whatsapp = WhatsAppService()
     m3 = M3Service()
 
     form_data = request.form_data
@@ -43,7 +43,7 @@ async def apply_for_scheme(request: ApplicationRequest) -> ApplicationResponse:
         scheme_id=request.scheme_id,
         form_data=form_data,
     )
-    whatsapp_sent = await twilio.send_application_update(
+    whatsapp_sent = await whatsapp.send_application_update(
         scheme_id=request.scheme_id,
         application_id=application_id,
         to_number=request.notify_phone,

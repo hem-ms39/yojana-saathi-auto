@@ -22,7 +22,7 @@ class LLMService:
             except TypeError:
                 # Common with incompatible httpx versions; caller falls back gracefully.
                 self._client = None
-        self._model = "llama-3.1-8b-instant"
+        self._model = settings.groq_model
 
     @property
     def enabled(self) -> bool:
